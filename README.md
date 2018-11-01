@@ -1,5 +1,11 @@
-## Welcome to GitHub Pages
 
+
+# Data Science Minor KB-74 Portfolio
+Welkom in mijn portfolio dat ik heb gemaakt voor de Data Science Minor KB74. Tijdens deze minor heb ik samen met 3 andere teamleden onder begeleiding van T. Andrioli een onderzoek uitgevoerd in opdracht van J. de Groot die een onderzoeker is aan het Leids Universitair Medisch Centrum (LUMC).
+
+Ons doel tijdens dit onderzoek was om te achterhalen of het 'flock-of-birds'-systeem dat momenteel door het LUMC enkel wordt gebruikt voor onderzoeksdoeleinden
+
+## Welcome to GitHub Pages
 You can use the [editor on GitHub](https://github.com/vdhoofdk/Data-Science-Minor-KB-74/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
