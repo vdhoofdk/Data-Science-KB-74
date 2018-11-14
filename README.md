@@ -6,8 +6,7 @@ Welkom in mijn portfolio dat ik heb gemaakt voor de Data Science Minor KB74. Tij
 Ons doel tijdens dit onderzoek was om te achterhalen of het 'flock-of-birds'-systeem dat momenteel door het LUMC enkel wordt gebruikt voor onderzoeksdoeleinden of dat het ook gebruikt kan worden voor de diagnostische doeleinden.
 
 In dit portfolio heb ik alles beschreven dat ik heb gedaan:
-# Mijn portfolio
-
+## Mijn portfolio
 - [Opdrachten](#Opdrachten)
   - [DataCamp](#datacamp)
   - [Coursera](#coursera)
