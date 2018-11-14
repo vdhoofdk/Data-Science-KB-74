@@ -14,15 +14,19 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
   - Exporatory Data Analysis
   - Spark Assignments
   - Bullshit opdracht
-- Presentaties
-- Andere taken
+- Overig
+  - Presentaties
+  - Overig
 
 Daarnaast zal ik binnen mijn portfolio globaal beschrijven wat er is gedaan gedurende dit onderzoek en binnen deze beschrijving zal ik vertellen wat voor scripts ik heb geschreven. Bij iedere verwijzing zal ik overigens een linkje plaatsen waardoor u dit script ook in kunt zien.
 
 ## DataCamp
-Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven tijd. <a href="https://imgur.com/a/hegcHlm">Deze</a> screenshot is het bewijs hiervan.
+Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven tijd. <a href="">Deze</a> screenshot is het bewijs hiervan.
 
-# Presentaties
+## Coursera
+Met veel moeite heb ik ook alle verplichte Coursera courses afgerond. <a href="https://imgur.com/a/hegcHlm">Deze</a> screenshot is het bewijs hiervan.
+
+## Presentaties
 Iedere week moesten er natuurlijk presentaties worden gegeven. Deze presentaties werden iedere week grotendeels gemaakt door de persoon die ze zou geven waarna het gehele groepje de presentatie controleerde en indien nodig verbeterde. Ik heb presentaties gegeven in de volgende weken: 
 - **Week 1** - Deze presentatie kunt u <a href="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%201.pdf">hier</a> inzien.
 - **Week 5** - Deze presentatie kunt u <a href="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%205.pdf">hier</a> inzien.
