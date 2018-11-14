@@ -21,27 +21,33 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
 Daarnaast zal ik binnen mijn portfolio globaal beschrijven wat er is gedaan gedurende dit onderzoek en binnen deze beschrijving zal ik vertellen wat voor scripts ik heb geschreven. Bij iedere verwijzing zal ik overigens een linkje plaatsen waardoor u dit script ook in kunt zien.
 
 ## DataCamp
-Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven tijd. <a href="">Deze</a> screenshot is het bewijs hiervan.
+Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven tijd. [Deze]() screenshot is het bewijs hiervan.
 
 ## Coursera
-Met veel moeite heb ik ook alle verplichte Coursera courses afgerond. <a href="https://imgur.com/a/hegcHlm">Deze</a> screenshot is het bewijs hiervan.
+Met veel moeite heb ik ook alle verplichte Coursera courses afgerond. [Deze](https://imgur.com/a/hegcHlm) screenshot is het bewijs hiervan.
 
 ## Exploratory Data Analisis
-Nr. | Naam
----|---
-1 | XX
-2 | XX
-
+1. [Checking Data Edges]()
+2. [Identifying variables]()
+3. [Univariate Analysis]()
+4. [Bivariate Analysis]()
+5. [Missing Values]()
+6. [Outliers]()
+7. [Data Transformation]()
+8. [Creating Variables]()
+9. [Evaluate]()
 
 ## Spark Assignments
+1. [Assignment 1]()
+2. [Assignment 2]()
 
 ## Bullshit opdracht
 
 ## Presentaties
 Iedere week moesten er natuurlijk presentaties worden gegeven. Deze presentaties werden iedere week grotendeels gemaakt door de persoon die ze zou geven waarna het gehele groepje de presentatie controleerde en indien nodig verbeterde. Ik heb presentaties gegeven in de volgende weken: 
-- **Week 1** - Deze presentatie kunt u <a href="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%201.pdf">hier</a> inzien.
-- **Week 5** - Deze presentatie kunt u <a href="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%205.pdf">hier</a> inzien.
-- **Week 7** - Deze presentatie kunt u <a href="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%207.pdf">hier</a> inzien.
+- **Week 1** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%201.pdf) inzien.
+- **Week 5** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%205.pdf) inzien.
+- **Week 7** - Deze presentatie kunt u [hier]("https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%207.pdf") inzien.
 
 
 
