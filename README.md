@@ -11,7 +11,7 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
 - [Opdrachten](#Opdrachten)
   - [DataCamp](#datacamp)
   - [Coursera](#coursera)
-  - [Exporatory Data Analysis](#exporatory data analysis)
+  - [Exploratory Data Analysis](#exploratory data analysis)
   - [Spark Assignments](#spark assignments)
   - [Bullshit opdracht](#bullshit opdracht)
 - [Overig](#overig)
