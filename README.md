@@ -19,6 +19,10 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
 
 Daarnaast zal ik binnen mijn portfolio globaal beschrijven wat er is gedaan gedurende dit onderzoek en binnen deze beschrijving zal ik vertellen wat voor scripts ik heb geschreven. Bij iedere verwijzing zal ik overigens een linkje plaatsen waardoor u dit script ook in kunt zien.
 
+# DataCamp
+Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven tijd. Onderstaande screenshot is het bewijs hiervan.
+<img src="https://imgur.com/a/hegcHlm">
+
 
 
 ## Welcome to GitHub Pages
