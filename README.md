@@ -23,7 +23,7 @@ Daarnaast zal ik binnen mijn portfolio globaal beschrijven wat er is gedaan gedu
 Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven tijd. <a href="https://imgur.com/a/hegcHlm">Deze</a> screenshot is het bewijs hiervan.
 
 # Presentaties
-Ik heb de presentaties gemaakt en gegeven voor de volgende weken:
+Iedere week moesten er natuurlijk presentaties worden gegeven. Deze presentaties werden iedere week grotendeels gemaakt door de persoon die ze zou geven waarna het gehele groepje de presentatie controleerde en indien nodig verbeterde. Ik heb presentaties gegeven in de volgende weken: 
 - **Week 1** - Deze presentatie kunt u <a href="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%201.pdf">hier</a> inzien.
 - **Week 5** - Deze presentatie kunt u <a href="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%205.pdf">hier</a> inzien.
 - **Week 7** - Deze presentatie kunt u <a href="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%207.pdf">hier</a> inzien.
