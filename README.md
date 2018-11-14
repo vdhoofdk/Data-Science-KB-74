@@ -18,7 +18,7 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
   - [Overig](#overig-1)
 
 Daarnaast zal ik binnen mijn portfolio globaal beschrijven wat er is gedaan gedurende dit onderzoek en binnen deze beschrijving zal ik vertellen wat voor scripts ik heb geschreven. Bij iedere verwijzing zal ik overigens een linkje plaatsen waardoor u dit script ook in kunt zien.
-
+# Opdrachten
 ## DataCamp
 Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven tijd. [Deze](https://imgur.com/a/hegcHlm) screenshot is het bewijs hiervan.
 ## Coursera
