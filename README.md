@@ -11,12 +11,12 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
 - [Opdrachten](#opdrachten)
   - [DataCamp](#DataCamp)
   - [Coursera](#coursera)
-  - [Exporatory Data Analysis](#Exporatory Data Analysis)
+  - [Exporatory Data Analysis](#Exporatory%Data%Analysis)
   - [Spark Assignments](#Spark Assignments)
   - [Bullshit opdracht](#Bullshit opdracht)
 - [Overig](#Overig)
-  - [Presentaties](#Overig)
-  - [Overig](#Overig)
+  - [Presentaties](#Presentaties)
+  - [Overig](#Overig-1)
 
 Daarnaast zal ik binnen mijn portfolio globaal beschrijven wat er is gedaan gedurende dit onderzoek en binnen deze beschrijving zal ik vertellen wat voor scripts ik heb geschreven. Bij iedere verwijzing zal ik overigens een linkje plaatsen waardoor u dit script ook in kunt zien.
 
