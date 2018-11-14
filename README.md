@@ -8,21 +8,22 @@ Ons doel tijdens dit onderzoek was om te achterhalen of het 'flock-of-birds'-sys
 In dit portfolio heb ik alles beschreven dat ik heb gedaan:
 # Mijn portfolio
 
-- Opdrachten
+- [Opdrachten](#opdrachten)
   - [DataCamp](#DataCamp)
-  - Coursera
-  - Exporatory Data Analysis
-  - Spark Assignments
-  - Bullshit opdracht
-- Overig
-  - Presentaties
-  - Overig
+  - [Coursera](#coursera)
+  - [Exporatory Data Analysis](#Exporatory Data Analysis)
+  - [Spark Assignments](#Spark Assignments)
+  - [Bullshit opdracht](#Bullshit opdracht)
+- [Overig](#Overig)
+  - [Presentaties](#Overig)
+  - [Overig](#Overig)
 
 Daarnaast zal ik binnen mijn portfolio globaal beschrijven wat er is gedaan gedurende dit onderzoek en binnen deze beschrijving zal ik vertellen wat voor scripts ik heb geschreven. Bij iedere verwijzing zal ik overigens een linkje plaatsen waardoor u dit script ook in kunt zien.
 
+# Opdrachten
+In dit deel van mijn portfolio staan opdrachten die verpklicht waren vanuit de minor
 ## DataCamp
 Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven tijd. [Deze]() screenshot is het bewijs hiervan.
-
 ## Coursera
 Met veel moeite heb ik ook alle verplichte Coursera courses afgerond. [Deze](https://imgur.com/a/hegcHlm) screenshot is het bewijs hiervan.
 
