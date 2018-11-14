@@ -26,6 +26,17 @@ Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven
 ## Coursera
 Met veel moeite heb ik ook alle verplichte Coursera courses afgerond. <a href="https://imgur.com/a/hegcHlm">Deze</a> screenshot is het bewijs hiervan.
 
+## Exploratory Data Analisis
+Nr. | Naam
+---|---
+1 | XX
+2 | XX
+
+
+## Spark Assignments
+
+## Bullshit opdracht
+
 ## Presentaties
 Iedere week moesten er natuurlijk presentaties worden gegeven. Deze presentaties werden iedere week grotendeels gemaakt door de persoon die ze zou geven waarna het gehele groepje de presentatie controleerde en indien nodig verbeterde. Ik heb presentaties gegeven in de volgende weken: 
 - **Week 1** - Deze presentatie kunt u <a href="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%201.pdf">hier</a> inzien.
