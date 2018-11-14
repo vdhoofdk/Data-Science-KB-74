@@ -24,8 +24,8 @@ Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven
 ## Coursera
 Met veel moeite heb ik ook alle verplichte Coursera courses afgerond. [Deze]() screenshot is het bewijs hiervan.
 ## Exploratory Data Analisis
-1. [Checking Data Edges]()
-2. [Identifying variables]()
+1. [Checking Data Edges](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/1%20Checking%20Data%20Edges.ipynb)
+2. [Identifying variables](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/2%20Identifying%20variables.ipynb)
 3. [Univariate Analysis]()
 4. [Bivariate Analysis]()
 5. [Missing Values]()
