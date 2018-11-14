@@ -9,7 +9,7 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
 # Mijn portfolio
 
 - Opdrachten
-  - [DataCamp](##DataCamp)
+  - [DataCamp](#DataCamp)
   - Coursera
   - Exporatory Data Analysis
   - Spark Assignments
