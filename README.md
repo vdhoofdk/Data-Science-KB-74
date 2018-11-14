@@ -8,10 +8,10 @@ Ons doel tijdens dit onderzoek was om te achterhalen of het 'flock-of-birds'-sys
 In dit portfolio heb ik alles beschreven dat ik heb gedaan:
 # Mijn portfolio
 
-- [Opdrachten](#opdrachten)
-  - [DataCamp](#DataCamp)
-  - [Coursera](#coursera)
-  - [Exporatory Data Analysis](#Exporatory%Data%Analysis)
+- [Opdrachten](#Opdrachten)
+  - [DataCamp](##DataCamp)
+  - [Coursera](##Coursera)
+  - [Exporatory Data Analysis](#Exporatory%20Data%20Analysis)
   - [Spark Assignments](#Spark Assignments)
   - [Bullshit opdracht](#Bullshit opdracht)
 - [Overig](#Overig)
@@ -50,8 +50,11 @@ Iedere week moesten er natuurlijk presentaties worden gegeven. Deze presentaties
 - **Week 5** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%205.pdf) inzien.
 - **Week 7** - Deze presentatie kunt u [hier]("https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%207.pdf") inzien.
 
+# Overig
+1
 
-
+## Overig
+2
 
 
 ## Welcome to GitHub Pages
