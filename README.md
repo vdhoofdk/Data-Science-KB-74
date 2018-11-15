@@ -55,6 +55,8 @@ Door op [deze link]() te drukken kom je bij een kort verslag dat beschrijft welk
 
 ## Voorbereiden data
 
+1. Tijdens dit project moesten we werken met metingen van patiënten. Deze metingen zijn 'time-series' die bestaan uit 80 tot 140 frames. Een manier om met ''
+
 ## Visualisatie data
 
 ## Verzamelen data
