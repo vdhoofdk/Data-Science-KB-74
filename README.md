@@ -5,12 +5,12 @@ Ons doel tijdens dit onderzoek was om te achterhalen of het 'flock-of-birds'-sys
 
 In dit portfolio heb ik alles beschreven dat ik heb gedaan:
 ## Mijn portfolio
-- [Courses & Opdrachten](#courses-&-opdrachten)
+- [Courses en Opdrachten](#courses-en-opdrachten)
   - [DataCamp](#datacamp)
   - [Coursera](#coursera)
   - [Exploratory Data Analysis](#exploratory-data-analisis)
   - [Spark Assignments](#spark-assignments)
-- [Tijdens het project](#tijdens-het-project:)
+- [Tijdens het project](#tijdens-het-project)
   - [Kennis over domein](#kennis-over-domein)
   - [Gebouwde modellen](#gebouwde-modellen)
   - [Voorbereiden data](#voorbereiden-data)
@@ -23,7 +23,7 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
 - [Evaluatie project](#evaluatie-project)
 - [Evaluatie leerproces](#evaluatie-leerproces)
 Daarnaast zal ik binnen mijn portfolio globaal beschrijven wat er is gedaan gedurende dit onderzoek en binnen deze beschrijving zal ik vertellen wat voor scripts ik heb geschreven. Bij iedere verwijzing zal ik overigens een linkje plaatsen waardoor u dit script ook in kunt zien.
-# Courses & Opdrachten
+# Courses en Opdrachten
 ## DataCamp
 Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven tijd. [Deze](https://imgur.com/a/hegcHlm) screenshot is het bewijs hiervan.
 ## Coursera
@@ -41,7 +41,7 @@ Met veel moeite heb ik ook alle verplichte Coursera courses afgerond. [Deze]() s
 ## Spark Assignments
 Tijdens dit project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 1-2 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
 
-# Tijdens het project:
+# Tijdens het project
 In dit hoofdstuk is alles beschreven dat is gedaan tijdens het project. Alles is gecategoriseerd volgens de categorieën en punten waar dit portfolio op zou worden getoetst.
 
 ## Kennis over domein
