@@ -24,11 +24,13 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
 - [Evaluatie leerproces](#evaluatie-leerproces)
 
 Daarnaast zal ik binnen mijn portfolio globaal beschrijven wat er is gedaan gedurende dit onderzoek en binnen deze beschrijving zal ik vertellen wat voor scripts ik heb geschreven. Bij iedere verwijzing zal ik overigens een linkje plaatsen waardoor u dit script ook in kunt zien.
-# Courses en Opdrachten
+<p align="center"># Courses en Opdrachten</p>
 ## DataCamp
 Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven tijd. [Deze](https://imgur.com/a/hegcHlm) screenshot is het bewijs hiervan.
+
 ## Coursera
 Met veel moeite heb ik ook alle verplichte Coursera courses afgerond. [Deze]() screenshot is het bewijs hiervan.
+
 ## Exploratory Data Analisis
 1. [Checking Data Edges](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/1%20Checking%20Data%20Edges.ipynb)
 2. [Identifying variables](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/2%20Identifying%20variables.ipynb)
@@ -39,6 +41,7 @@ Met veel moeite heb ik ook alle verplichte Coursera courses afgerond. [Deze]() s
 7. [Data Transformation](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/7%20Data%20Transformation.ipynb)
 8. [Creating Variables](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/8%20Creating%20Variables.ipynb)
 9. [Evaluate](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/9%20Evaluate.ipynb)
+
 ## Spark Assignments
 Tijdens dit project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 1-2 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
 
