@@ -12,7 +12,6 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
   - [Coursera](#coursera)
   - [Exploratory Data Analysis](#exploratory-data-analisis)
   - [Spark Assignments](#spark-assignments)
-  - [Bullshit opdracht](#bullshit-opdracht)
 - [Overig](#overig)
   - [Presentaties](#presentaties)
   - [Overig](#overig-1)
@@ -30,12 +29,11 @@ Met veel moeite heb ik ook alle verplichte Coursera courses afgerond. [Deze]() s
 4. [Bivariate Analysis](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/4%20Bivariate%20Analysis.ipynb)
 5. [Missing Values](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/5%20Missing%20Values.ipynb)
 6. [Outliers](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/6%20Outliers.ipynb)
-7. [Data Transformation]()
-8. [Creating Variables]()
-9. [Evaluate]()
+7. [Data Transformation](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/7%20Data%20Transformation.ipynb)
+8. [Creating Variables](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/8%20Creating%20Variables.ipynb)
+9. [Evaluate](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/9%20Evaluate.ipynb)
 ## Spark Assignments
-1. [Assignment 1]()
-2. [Assignment 2]()
+Tijdens dit project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 1-2 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
 ## Bullshit opdracht
 # Overig
 Hier staan alle overige activiteiten die niet eerder zijn genoemd.
