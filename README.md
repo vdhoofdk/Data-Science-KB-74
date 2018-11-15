@@ -14,12 +14,16 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
   - [Spark Assignments](#spark-assignments)
 - [Tijdens het project](#tijdens-het-project:)
   - [Kennis over domein](#kennis-over-domein)
-  - [Predictive Models](#predictive-models)
-  
+  - [Gebouwde modellen](#gebouwde-modellen)
+  - [Voorbereiden data](#voorbereiden-data)
+  - [Visualisatie data](#visualisatie-data)
+  - [Verzamelen data](#verzamelen-data)
 - [Overig](#overig)
   - [Presentaties](#presentaties)
+  - [Bijdrage aan paper](#bijdrage-aan-paper)
   - [Overig](#overig-1)
-
+- [Evaluatie project](#evaluatie-project)
+- [Evaluatie leerproces](#evaluatie-leerproces)
 Daarnaast zal ik binnen mijn portfolio globaal beschrijven wat er is gedaan gedurende dit onderzoek en binnen deze beschrijving zal ik vertellen wat voor scripts ik heb geschreven. Bij iedere verwijzing zal ik overigens een linkje plaatsen waardoor u dit script ook in kunt zien.
 # Courses
 ## DataCamp
@@ -42,7 +46,16 @@ Tijdens dit project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodza
 # Tijdens het project:
 In dit hoofdstuk is alles beschreven dat is gedaan tijdens het project. Alles is gecategoriseerd volgens de categorieën en punten waar dit portfolio op zou worden getoetst.
 
+## Kennis over domein
+Door op [deze link]() te drukken kom je bij een kort verslag dat beschrijft welke kennis ik op heb gedaan over het domein. Zo staat hier een lijst (en korte samenvatting) van alle literatuur die ik heb gelezen en alle andere belangrijke dingen die ik heb gemaakt die mijn eigen kennis (over het domein) of die van het hele team hebben vergroot. 
 
+## Gebouwde modellen
+
+## Voorbereiden data
+
+## Visualisatie data
+
+## Verzamelen data
 
 # Overig
 Hier staan alle overige activiteiten die niet eerder zijn genoemd.
@@ -51,44 +64,13 @@ Iedere week moesten er natuurlijk presentaties worden gegeven. Deze presentaties
 - **Week 1** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%201.pdf) inzien.
 - **Week 5** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%205.pdf) inzien.
 - **Week 7** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%207.pdf) inzien.
+- **Week 11** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%2011.pdf) inzien.
+
+## Bijdrage Paper
 
 ## Overig
 2
 
+# Evaluatie project
 
-## Welcome to GitHub Pages
-You can use the [editor on GitHub](https://github.com/vdhoofdk/Data-Science-Minor-KB-74/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vdhoofdk/Data-Science-Minor-KB-74/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Evaluatie leerproces
