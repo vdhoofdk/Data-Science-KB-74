@@ -22,6 +22,7 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
   - [Overig](#overig-1)
 - [Evaluatie project](#evaluatie-project)
 - [Evaluatie leerproces](#evaluatie-leerproces)
+
 Daarnaast zal ik binnen mijn portfolio globaal beschrijven wat er is gedaan gedurende dit onderzoek en binnen deze beschrijving zal ik vertellen wat voor scripts ik heb geschreven. Bij iedere verwijzing zal ik overigens een linkje plaatsen waardoor u dit script ook in kunt zien.
 # Courses en Opdrachten
 ## DataCamp
