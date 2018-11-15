@@ -71,7 +71,6 @@ Iedere week moesten er natuurlijk presentaties worden gegeven. Deze presentaties
 ## Bijdrage Paper
 
 ## Overig
-2
 
 # Evaluatie project
 
