@@ -35,7 +35,7 @@ Met veel moeite heb ik ook alle verplichte Coursera courses afgerond. [Deze]() s
 9. [Evaluate]()
 ## Spark Assignments
 1. [Assignment 1]()
-2. [Assignment 2](
+2. [Assignment 2]()
 ## Bullshit opdracht
 # Overig
 Hier staan alle overige activiteiten die niet eerder zijn genoemd.
