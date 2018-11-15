@@ -7,17 +7,21 @@ Ons doel tijdens dit onderzoek was om te achterhalen of het 'flock-of-birds'-sys
 
 In dit portfolio heb ik alles beschreven dat ik heb gedaan:
 ## Mijn portfolio
-- [Opdrachten](#Opdrachten)
+- [Courses & Opdrachten](#courses-&-opdrachten)
   - [DataCamp](#datacamp)
   - [Coursera](#coursera)
   - [Exploratory Data Analysis](#exploratory-data-analisis)
   - [Spark Assignments](#spark-assignments)
+- [Tijdens het project](#tijdens-het-project:)
+  - [Kennis over domein](#kennis-over-domein)
+  - [Predictive Models](#predictive-models)
+  
 - [Overig](#overig)
   - [Presentaties](#presentaties)
   - [Overig](#overig-1)
 
 Daarnaast zal ik binnen mijn portfolio globaal beschrijven wat er is gedaan gedurende dit onderzoek en binnen deze beschrijving zal ik vertellen wat voor scripts ik heb geschreven. Bij iedere verwijzing zal ik overigens een linkje plaatsen waardoor u dit script ook in kunt zien.
-# Opdrachten
+# Courses
 ## DataCamp
 Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven tijd. [Deze](https://imgur.com/a/hegcHlm) screenshot is het bewijs hiervan.
 ## Coursera
@@ -34,7 +38,12 @@ Met veel moeite heb ik ook alle verplichte Coursera courses afgerond. [Deze]() s
 9. [Evaluate](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/9%20Evaluate.ipynb)
 ## Spark Assignments
 Tijdens dit project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 1-2 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
-## Bullshit opdracht
+
+# Tijdens het project:
+In dit hoofdstuk is alles beschreven dat is gedaan tijdens het project. Alles is gecategoriseerd volgens de categorieën en punten waar dit portfolio op zou worden getoetst.
+
+
+
 # Overig
 Hier staan alle overige activiteiten die niet eerder zijn genoemd.
 ## Presentaties
