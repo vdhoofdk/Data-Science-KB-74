@@ -26,10 +26,16 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
 Daarnaast zal ik binnen mijn portfolio globaal beschrijven wat er is gedaan gedurende dit onderzoek en binnen deze beschrijving zal ik vertellen wat voor scripts ik heb geschreven. Bij iedere verwijzing zal ik overigens een linkje plaatsen waardoor u dit script ook in kunt zien.
 # Courses en Opdrachten
 ## DataCamp
-Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven tijd. [Deze](https://imgur.com/a/hegcHlm) screenshot is het bewijs hiervan.
+Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven tijd. [Deze](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/datacamp.png?raw=true) screenshot is het bewijs hiervan.
 
 ## Coursera
-Met veel moeite heb ik ook alle verplichte Coursera courses afgerond. [Deze]() screenshot is het bewijs hiervan.
+Ook heb ik alle verplichte Coursera courses gevolgd. Ik heb echter enkel de verplichte courses en quizzes gedaan omdat ik hier veel moeite mee had. Hier staan de screenshots voor het afronden van deze courses.
+1. [Linear Regression with One variable](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/coursera1.JPG?raw=true)
+2. [Linear Regression with Multiple Variables](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/coursera2.JPG?raw=true)
+3. [Logistic Regression & Regularization]
+6. [Advice for Applying Machine Learning]
+
+En hier is nog een [screenshot]() van mijn de hele course overview met mijn naam erboven. (kan slecht te lezen zijn)
 
 ## Exploratory Data Analisis
 1. [Checking Data Edges](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/1%20Checking%20Data%20Edges.ipynb)
