@@ -32,8 +32,8 @@ Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven
 Ook heb ik alle verplichte Coursera courses gevolgd. Ik heb echter enkel de verplichte courses en quizzes gedaan omdat ik hier veel moeite mee had. Hier staan de screenshots voor het afronden van deze courses.
 1. [Linear Regression with One variable](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/coursera1.JPG?raw=true)
 2. [Linear Regression with Multiple Variables](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/coursera2.JPG?raw=true)
-3. [Logistic Regression & Regularization]
-6. [Advice for Applying Machine Learning]
+3. [Logistic Regression & Regularization]()
+6. [Advice for Applying Machine Learning]()
 
 En hier is nog een [screenshot]() van mijn de hele course overview met mijn naam erboven. (kan slecht te lezen zijn)
 
