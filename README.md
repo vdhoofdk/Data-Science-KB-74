@@ -8,7 +8,7 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
 - [Courses en Opdrachten](#courses-en-opdrachten)
   - [DataCamp](#datacamp)
   - [Coursera](#coursera)
-  - [Exploratory Data Analysis](#exploratory-data-analisis)
+  - [Exploratory Data Analysis](#exploratory-data-analysis)
   - [Spark Assignments](#spark-assignments)
 - [Tijdens het project](#tijdens-het-project)
   - [Kennis over domein](#kennis-over-domein)
@@ -37,7 +37,7 @@ Ook heb ik alle verplichte Coursera courses gevolgd. Ik heb echter enkel de verp
 
 En hier is nog een [screenshot]() van mijn de hele course overview met mijn naam erboven. (kan slecht te lezen zijn)
 
-## Exploratory Data Analisis
+## Exploratory Data Analysis
 1. [Checking Data Edges](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/1%20Checking%20Data%20Edges.ipynb)
 2. [Identifying variables](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/2%20Identifying%20variables.ipynb)
 3. [Univariate Analysis](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/3%20Univariate%20Analysis.ipynb)
