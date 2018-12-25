@@ -36,6 +36,7 @@ Ook heb ik alle verplichte Coursera courses gevolgd. Ik heb echter enkel de verp
 6. [Advice for Applying Machine Learning](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Screenshots/coursera6.png)
 
 ## Exploratory Data Analysis
+Door op onderstaande links te klikken kan je de door mij gemaakte exploratory data analysis opdrachten inzien.
 1. [Checking Data Edges](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Exploratory%20Data%20Analysis/1%20Checking%20Data%20Edges.ipynb)
 2. [Identifying variables](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Exploratory%20Data%20Analysis/2%20Identifying%20variables.ipynb)
 3. [Univariate Analysis](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Exploratory%20Data%20Analysis/3%20Univariate%20Analysis.ipynb)
