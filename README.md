@@ -43,7 +43,8 @@ Ook heb ik alle verplichte Coursera courses gevolgd. Ik heb echter enkel de verp
 5. [Missing Values](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Exploratory%20Data%20Analysis/5%20Missing%20Values.ipynb)
 6. [Outliers](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Exploratory%20Data%20Analysis/6%20Outliers.ipynb)
 7. [Data Transformation](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Exploratory%20Data%20Analysis/7%20Data%20Transformation.ipynb)
-8. [Creating Variables](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Exploratory%20Data%20Analysis/9%20Evaluate.ipynb)
+8. [Creating Variables](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Exploratory%20Data%20Analysis/8%20Creating%20Variables.ipynb)
+9. [Evaluate](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Exploratory%20Data%20Analysis/9%20Evaluate.ipynb)
 
 ## Spark Assignments
 Tijdens dit project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 10 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
@@ -93,6 +94,3 @@ Over het algemeen was het paper mijn verantwoordelijkheid en hier heb ik dan ook
 
 ## Overig
 
-# Evaluatie project
-
-# Evaluatie leerproces
