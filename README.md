@@ -26,30 +26,27 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
 Daarnaast zal ik binnen mijn portfolio globaal beschrijven wat er is gedaan gedurende dit onderzoek en binnen deze beschrijving zal ik vertellen wat voor scripts ik heb geschreven. Bij iedere verwijzing zal ik overigens een linkje plaatsen waardoor u dit script ook in kunt zien.
 # Courses en Opdrachten
 ## DataCamp
-Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven tijd. [Deze](https://raw.githubusercontent.com/vdhoofdk/Data-Science-KB-74/master/Screenshots/datacamp.png) screenshot is het bewijs hiervan.
+Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven tijd. [Deze](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Screenshots/datacamp.png) screenshot is het bewijs hiervan.
 
 ## Coursera
 Ook heb ik alle verplichte Coursera courses gevolgd. Ik heb echter enkel de verplichte courses en quizzes gedaan omdat ik hier veel moeite mee had. Hier staan de screenshots voor het afronden van deze courses.
-1. [Linear Regression with One variable](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Screenshots/coursera1.jpg?raw=true)
-2. [Linear Regression with Multiple Variables](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Screenshots/coursera2.jpg?raw=true)
-3. [Logistic Regression & Regularization]()
-6. [Advice for Applying Machine Learning]()
-
-En hier is nog een [screenshot]() van mijn de hele course overview met mijn naam erboven. (kan slecht te lezen zijn)
+1. [Linear Regression with One variable](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Screenshots/coursera1.png)
+2. [Linear Regression with Multiple Variables](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Screenshots/coursera2.png)
+3. [Logistic Regression & Regularization](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Screenshots/coursera3.png)
+6. [Advice for Applying Machine Learning](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Screenshots/coursera6.png)
 
 ## Exploratory Data Analysis
-1. [Checking Data Edges](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/1%20Checking%20Data%20Edges.ipynb)
-2. [Identifying variables](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/2%20Identifying%20variables.ipynb)
-3. [Univariate Analysis](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/3%20Univariate%20Analysis.ipynb)
-4. [Bivariate Analysis](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/4%20Bivariate%20Analysis.ipynb)
-5. [Missing Values](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/5%20Missing%20Values.ipynb)
-6. [Outliers](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/6%20Outliers.ipynb)
-7. [Data Transformation](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/7%20Data%20Transformation.ipynb)
-8. [Creating Variables](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/8%20Creating%20Variables.ipynb)
-9. [Evaluate](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/9%20Evaluate.ipynb)
+1. [Checking Data Edges](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Exploratory%20Data%20Analysis/1%20Checking%20Data%20Edges.ipynb)
+2. [Identifying variables](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Exploratory%20Data%20Analysis/2%20Identifying%20variables.ipynb)
+3. [Univariate Analysis](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Exploratory%20Data%20Analysis/3%20Univariate%20Analysis.ipynb)
+4. [Bivariate Analysis](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Exploratory%20Data%20Analysis/4%20Bivariate%20Analysis.ipynb)
+5. [Missing Values](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Exploratory%20Data%20Analysis/5%20Missing%20Values.ipynb)
+6. [Outliers](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Exploratory%20Data%20Analysis/6%20Outliers.ipynb)
+7. [Data Transformation](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Exploratory%20Data%20Analysis/7%20Data%20Transformation.ipynb)
+8. [Creating Variables](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Exploratory%20Data%20Analysis/9%20Evaluate.ipynb)
 
 ## Spark Assignments
-Tijdens dit project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 1-2 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
+Tijdens dit project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 10 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
 
 # Tijdens het project
 In dit hoofdstuk is alles beschreven dat is gedaan tijdens het project. Alles is gecategoriseerd volgens de categorieën en punten waar dit portfolio op zou worden getoetst.
@@ -71,12 +68,28 @@ Door op [deze link]() te drukken kom je bij een kort verslag dat beschrijft welk
 Hier staan alle overige activiteiten die niet eerder zijn genoemd.
 ## Presentaties
 Iedere week moesten er natuurlijk presentaties worden gegeven. Deze presentaties werden iedere week grotendeels gemaakt door de persoon die ze zou geven waarna het gehele groepje de presentatie controleerde en indien nodig verbeterde. Ik heb presentaties gegeven in de volgende weken: 
-- **Week 1** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%201.pdf) inzien.
-- **Week 5** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%205.pdf) inzien.
-- **Week 7** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%207.pdf) inzien.
-- **Week 11** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Ortho%20Eyes%20presentatie%20week%2011.pdf) inzien.
+- **Week 1** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Presentaties/Ortho%20Eyes%20presentatie%20week%201.pdf) inzien.
+- **Week 5** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Presentaties/Ortho%20Eyes%20presentatie%20week%205.pdf) inzien.
+- **Week 7** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Presentaties/Ortho%20Eyes%20presentatie%20week%207.pdf) inzien.
+- **Week 11** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Presentaties/Ortho%20Eyes%20presentatie%20week%2011.pdf) inzien.
+- **Week 13** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Presentaties/Ortho%20Eyes%20presentatie%20week%2013.pdf) inzien.
+- **Week 14** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Presentaties/Ortho%20Eyes%20presentatie%20week%2014.pdf) inzien.
+- **Week 15** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Presentaties/Ortho%20Eyes%20presentatie%20week%2015.pdf) inzien.
+- **Week 16** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Presentaties/Ortho%20Eyes%20presentatie%20week%2016.pdf) inzien.
 
 ## Bijdrage Paper
+Het paper dat [hier]() te zien is heb ik voor het grootste deel geschreven. In de laatste weken focuste ik me voornamelijk op het schrijven van het paper terwijl mijn projectgenoten de laatste scripts schreven en uitvoerden. Van het paper heb ik:
+- De opmaak verzorgd
+- De volgende hoofdstukken geschreven
+  - Introduction
+  - The data and its preparation
+  - Research strategy & execution
+  - Results
+- Literatuur gezocht
+- Literatuurlijst opgesteld en netjes (APA) ingevoerd
+- Laatste spellingscheck
+
+Over het algemeen was het paper mijn verantwoordelijkheid en hier heb ik dan ook de leiding over genomen en af en toe (indien nodig) mijn projectgenoten om hulp gevraagd.
 
 ## Overig
 
