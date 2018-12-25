@@ -26,7 +26,7 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
 Daarnaast zal ik binnen mijn portfolio globaal beschrijven wat er is gedaan gedurende dit onderzoek en binnen deze beschrijving zal ik vertellen wat voor scripts ik heb geschreven. Bij iedere verwijzing zal ik overigens een linkje plaatsen waardoor u dit script ook in kunt zien.
 # Courses en Opdrachten
 ## DataCamp
-Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven tijd. [Deze](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Screenshots/datacamp.png) screenshot is het bewijs hiervan.
+Op DataCamp heb ik alle verplichte courses gemaakt en voltooid binnen de gegeven tijd. Dit is te zien in [deze screenshot](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Screenshots/datacamp.png) .
 
 ## Coursera
 Ook heb ik alle verplichte Coursera courses gevolgd. Ik heb echter enkel de verplichte courses en quizzes gedaan omdat ik hier veel moeite mee had. Hier staan de screenshots voor het afronden van deze courses.
@@ -56,7 +56,11 @@ In dit hoofdstuk is alles beschreven dat is gedaan tijdens het project. Alles is
 ## Kennis over domein
 In dit hoofdstuk zulle alle activiteiten worden opgenomen die mijn kennis over het domein hebben vergroot.
 
-Op het begin van het project hebben we alle data ontvangen waar we ons onderzoek mee uit moesten voeren. We begrepen de data niet goed mede doordat overal lastige medische namen werden gebruik die wij niet kenden. Ook was voor ons niet heel duidelijk waar alle sensoren zaten en welke gewrichten dat waren. Daarom hebben ik en Vincent [dit plaatje](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/overzicht_sensoren-translated.pdf) gemaakt waarin wij de locaties van alle sensoren aan hebben gegeven en hebben de namen van de gewrichten erbij gezet in het nederlands en latijns zodat dit veel duidelijker zou worden voor het hele groepje.
+Helemaal op het begin van het dit project heb ik een hoop literatuur gelezen om te begrijpen op welke onderzoeken en literatuur dit project voortbouwt en wat het de context van dit onderzoek is. Hierdoor werd ook duidelijk wat het doel was van het onderzoek.
+
+Op een gegeven moment hebben we alle data ontvangen waar we ons onderzoek mee uit moesten voeren. We begrepen de data niet goed mede doordat overal lastige medische namen werden gebruik die wij niet kenden. Ook was voor ons niet heel duidelijk waar alle sensoren zaten en welke gewrichten dat waren. Daarom hebben ik en Vincent [dit plaatje](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/overzicht_sensoren-translated.pdf) gemaakt waarin wij de locaties van alle sensoren aan hebben gegeven en hebben de namen van de gewrichten erbij gezet in het nederlands en latijns zodat dit veel duidelijker zou worden voor het hele groepje.
+
+
 
 Ook heb ik voor het mijn teamleden uitgezocht wat dropouts en convolutional neural networks waren. Hier heb ik vervolgens ook 2 korte samenvattingen geschreven zodat zij alleen deze twee korte documentjes moesten lezen.
 - [CNN samenvatting](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/CNN%20in%20het%20kort.pdf)
@@ -101,4 +105,6 @@ Over het algemeen was het paper mijn verantwoordelijkheid en hier heb ik dan ook
 
 ## Overig
 Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschool. Tijdens deze borrel hebben wij aan andere onderwijzers uitgelegd wat het doel is van dit project en waar wij precies mee bezig zijn. Dit hebben wij met behulp van [deze poster](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Poster_CvB-borrel.pdf) uitgelegd die ik en Vincent samen hebben gemaakt. Ik was er tijdens die borrel ook bij en heb aan veel geïnteresseerde docenten uitgelegd waar wij mee bezig waren.
+
+
 
