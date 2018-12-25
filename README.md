@@ -54,7 +54,13 @@ Tijdens dit project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodza
 In dit hoofdstuk is alles beschreven dat is gedaan tijdens het project. Alles is gecategoriseerd volgens de categorieën en punten waar dit portfolio op zou worden getoetst.
 
 ## Kennis over domein
-Door op [deze link]() te drukken kom je bij een kort verslag dat beschrijft welke kennis ik op heb gedaan over het domein. Zo staat hier een lijst (en korte samenvatting) van alle literatuur die ik heb gelezen en alle andere belangrijke dingen die ik heb gemaakt die mijn eigen kennis (over het domein) of die van het hele team hebben vergroot. 
+In dit hoofdstuk zulle alle activiteiten worden opgenomen die mijn kennis over het domein hebben vergroot.
+
+Op het begin van het project hebben we alle data ontvangen waar we ons onderzoek mee uit moesten voeren. We begrepen de data niet goed mede doordat overal lastige medische namen werden gebruik die wij niet kenden. Ook was voor ons niet heel duidelijk waar alle sensoren zaten en welke gewrichten dat waren. Daarom hebben ik en Vincent [dit plaatje](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/overzicht_sensoren-translated.pdf) gemaakt waarin wij de locaties van alle sensoren aan hebben gegeven en hebben de namen van de gewrichten erbij gezet in het nederlands en latijns zodat dit veel duidelijker zou worden voor het hele groepje.
+
+Ook heb ik voor het mijn teamleden uitgezocht wat dropouts en convolutional neural networks waren. Hier heb ik vervolgens ook 2 korte samenvattingen geschreven zodat zij alleen deze twee korte documentjes moesten lezen.
+- [CNN samenvatting](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/CNN%20in%20het%20kort.pdf)
+- [Dropouts samenvatting](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Dropouts%20in%20het%20kort.pdf)
 
 ## Gebouwde modellen
 
@@ -94,4 +100,5 @@ Het paper dat [hier]() te zien is heb ik voor het grootste deel geschreven. In d
 Over het algemeen was het paper mijn verantwoordelijkheid en hier heb ik dan ook de leiding over genomen en af en toe (indien nodig) mijn projectgenoten om hulp gevraagd.
 
 ## Overig
+Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschool. Tijdens deze borrel hebben wij aan andere onderwijzers uitgelegd wat het doel is van dit project en waar wij precies mee bezig zijn. Dit hebben wij met behulp van [deze poster](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Poster_CvB-borrel.pdf) uitgelegd die ik en Vincent samen hebben gemaakt. Ik was er tijdens die borrel ook bij en heb aan veel geïnteresseerde docenten uitgelegd waar wij mee bezig waren.
 
