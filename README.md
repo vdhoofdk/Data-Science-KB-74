@@ -76,8 +76,8 @@ Iedere week moesten er natuurlijk presentaties worden gegeven. Deze presentaties
 - **Week 11** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Presentaties/Ortho%20Eyes%20presentatie%20week%2011.pdf) inzien.
 - **Week 13** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Presentaties/Ortho%20Eyes%20presentatie%20week%2013.pdf) inzien.
 - **Week 14** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Presentaties/Ortho%20Eyes%20presentatie%20week%2014.pdf) inzien.
-- **Week 15** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Presentaties/Ortho%20Eyes%20presentatie%20week%2015.pdf) inzien.
-- **Week 16** - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Presentaties/Ortho%20Eyes%20presentatie%20week%2016.pdf) inzien.
+- **Week 15** - (samen met Luke) - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Presentaties/Ortho%20Eyes%20presentatie%20week%2015.pdf) inzien.
+- **Week 16** - (samen met Luke) - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Presentaties/Ortho%20Eyes%20presentatie%20week%2016.pdf) inzien.
 
 ## Bijdrage Paper
 Het paper dat [hier]() te zien is heb ik voor het grootste deel geschreven. In de laatste weken focuste ik me voornamelijk op het schrijven van het paper terwijl mijn projectgenoten de laatste scripts schreven en uitvoerden. Van het paper heb ik:
