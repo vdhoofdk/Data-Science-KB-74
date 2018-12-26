@@ -107,6 +107,8 @@ Iedere week moesten er natuurlijk presentaties worden gegeven. Deze presentaties
 - **Week 15** - (samen met Luke) - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Presentaties/Ortho%20Eyes%20presentatie%20week%2015.pdf) inzien.
 - **Week 16** - (samen met Luke) - Deze presentatie kunt u [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Presentaties/Ortho%20Eyes%20presentatie%20week%2016.pdf) inzien.
 
+Ik heb vrijwillig meer presentaties gegeven en voorbereid omdat niemand anders in mijn groepje dit wou doen. Hierdoor kon de rest van mijn groepje zich blijven focussen op het programmeren. Ik wou niet alleen maar met programmeren bezig zijn en ik had af en toe de afwisseling nodig.
+
 ## Bijdrage Paper
 Het paper dat [hier]() te zien is heb ik voor het grootste deel geschreven. In de laatste weken focuste ik me voornamelijk op het schrijven van het paper terwijl mijn projectgenoten de laatste scripts schreven en uitvoerden. Van het paper heb ik:
 - De opmaak verzorgd
