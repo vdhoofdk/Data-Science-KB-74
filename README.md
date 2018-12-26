@@ -56,11 +56,13 @@ In dit hoofdstuk is alles beschreven dat is gedaan tijdens het project. Alles is
 ## Kennis over domein
 In dit hoofdstuk zulle alle activiteiten worden opgenomen die mijn kennis over het domein hebben vergroot.
 
-Helemaal op het begin van het dit project heb ik een hoop literatuur gelezen om te begrijpen op welke onderzoeken en literatuur dit project voortbouwt en wat het de context van dit onderzoek is. Hierdoor werd ook duidelijk wat het doel was van het onderzoek. Ik zal kort voor elk artikel benoemen waarom ik het heb gelezen en wat ik ervan op heb gestoken.
-|[Wu, G., Van der Helm, F. C., Veeger, H. D., Makhsous, M., Van Roy, P., Anglin, C., ... & Werner, F. W. (2005). ISB recommendation on definitions of joint coordinate systems of various joints for the reporting of human joint motion—Part II: shoulder, elbow, wrist and hand. Journal of biomechanics, 38(5), 981-992.](https://www.sciencedirect.com/science/article/pii/S002192900400301X)|Dit artikel heb ik gelezen om de medische terminologie te begrijpen die werd gebruikt in andere onderzoeken. |
+Helemaal op het begin van het dit project heb ik een hoop literatuur. Ik zal kort voor elk artikel dat ik heb gelezen (en dat in [deze](###gelezen-literatuur) lijst staat) kort benoemen waarom ik het heb gelezen en wat ik ervan op heb gestoken.
+1. 
 
+### Gelezen literatuur
+1. [Wu, G., Van der Helm, F. C., Veeger, H. D., Makhsous, M., Van Roy, P., Anglin, C., ... & Werner, F. W. (2005). ISB recommendation on definitions of joint coordinate systems of various joints for the reporting of human joint motion—Part II: shoulder, elbow, wrist and hand. Journal of biomechanics, 38(5), 981-992.]()
 
-Op een gegeven moment hebben we alle data ontvangen waar we ons onderzoek mee uit moesten voeren. We begrepen de data niet goed mede doordat overal lastige medische namen werden gebruik die wij niet kenden. Ook was voor ons niet heel duidelijk waar alle sensoren zaten en welke gewrichten dat waren. Daarom hebben ik en Vincent [dit plaatje](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/overzicht_sensoren-translated.pdf) gemaakt waarin wij de locaties van alle sensoren aan hebben gegeven en hebben de namen van de gewrichten erbij gezet in het nederlands en latijns zodat dit veel duidelijker zou worden voor het hele groepje.
+Op een gegeven moment hebben we alle data ontvangen waar we ons onderzoek mee uit moesten voeren. We begrepen de data niet goed mede doordat overal lastige medische namen werden gebruik die wij niet kenden. Ook was voor ons niet heel duidelijk waar alle sensoren zaten en welke gewrichten dat waren. Daarom hebben ik en Vincent [dit plaatje](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/overzicht_sensoren-translated.pdf) gemaakt waarin wij de locaties van alle sensoren aan hebben gegeven en hebben de namen van de gewrichten erbij gezet in het nederlands en latijns zodat dit veel duidelijker zou worden voor het hele groepje. Dit hebben we gedaan op basis van artikel 1.
 
 Ook heb ik voor het mijn teamleden uitgezocht wat dropouts en convolutional neural networks waren. Hier heb ik vervolgens ook 2 korte samenvattingen geschreven zodat zij alleen deze twee korte documentjes moesten lezen.
 - [CNN samenvatting](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/CNN%20in%20het%20kort.pdf)
