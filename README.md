@@ -62,6 +62,9 @@ Helemaal op het begin van het dit project heb ik een hoop literatuur. Ik zal kor
 3. Onze docent (T. Andrioli) zei dat dit misschien wel een interessant artikel was om te lezen en dat het misschien wel nuttig zou kunnen zijn voor dit onderzoek. Ik heb het gelezen maar ik heb eigenlijk geen informatie uit dit artikel verder gebruikt.
 4. Onze docent (T. Andrioli) zei dat dit misschien wel een interessant artikel was om te lezen en dat het misschien wel nuttig zou kunnen zijn voor dit onderzoek. Ik heb het gelezen maar ik heb eigenlijk geen informatie uit dit artikel verder gebruikt.
 5. Onze docent (T. Andrioli) zei dat dit misschien wel een interessant artikel was om te lezen en dat het misschien wel nuttig zou kunnen zijn voor dit onderzoek. Dit artikel was geschreven door een onderzoeksgroep waar onze opdrachtgever (J. de Groot) ook deel van uitmaakte. In dit onderzoek werd een suggestie gedaan om te onderzoeken “whether kinematic analysis of shoulder motion is useful for diagnostic purposes” (Kolk, et al., 2017). Dit is eigenlijk precies wat we met dit onderzoek doen. Deze referentie was erg belangrijk tijdens het schrijven van ons paper.
+6. Dit artikel heb ik gevonden en gelezen om beter het 'Flock of birds'-systeem waar alle data mee is verzameld te begrijpen. Hierdoor begrijp ik nu een beetje hoe de locatie van de sensoren vast is gelegd met een electromagnetisch veld. Ook weet ik door dit document wat het verschil is tussen de ruwe data en de data die we van de opdrachtgever hebben gekregen. Het electromagnetisch veld is namelijk in elke ruimte anders waardoor de meting per ruimte zou verschillen. Daarom zijn er bepaalde berekeningen gedaan op de data om altijd dezelfde gecleande data te krijgen ongeacht de ruimte.
+7. Dit artikel heb ik (deels) gelezen om belangrijke dingen te vinden waar we op moesten letten tijdens ons onderzoek. Zo heb ik gevonden dat de range-of-motion (de hoeken tussen gewrichten) erg belangrijk zijn en vooral de range-of-motion van de scapula. 
+8. Dit artikel heb ik gevonden en gelezen om iets in ons paper te kunnen onderbouwen. Het onderzoek ging over de precisie van de gonomiometer bij het meten van de range-of-motion. 
 
 ### Gelezen literatuur
 1.  [Wu, G., Van der Helm, F. C., Veeger, H. D., Makhsous, M., Van Roy, P., Anglin, C., ... & Werner, F. W. (2005). ISB recommendation on definitions of joint coordinate systems of various joints for the reporting of human joint motion—Part II: shoulder, elbow, wrist and hand. Journal of biomechanics, 38(5), 981-992.](https://www.sciencedirect.com/science/article/pii/S002192900400301X)
@@ -69,12 +72,17 @@ Helemaal op het begin van het dit project heb ik een hoop literatuur. Ik zal kor
 3. [Meskers, C. G. M., Vermeulen, H. M., De Groot, J. H., Van der Helm, F. C. T., & Rozing, P. M. (1998). 3D shoulder position measurements using a six-degree-of-freedom electromagnetic tracking device. Clinical biomechanics, 13(4), 280-292.](https://www.clinbiomech.com/article/S0268-0033(98)00095-3/abstract)
 4. [Meskers, C. G., de Groot, J. H., Arwert, H. J., Rozendaal, L. A., & Rozing, P. M. (2004). Reliability of force direction dependent EMG parameters of shoulder muscles for clinical measurements. Clinical Biomechanics, 19(9), 913-920.](https://www.sciencedirect.com/science/article/pii/S0268003304001214)
 5. [Kolk, A., Henseler, J. F., de Witte, P. B., van Zwet, E. W., van der Zwaal, P., Visser, C. P., ... & de Groot, J. H. (2017). The effect of a rotator cuff tear and its size on three-dimensional shoulder motion. Clinical Biomechanics, 45, 43-51.](https://www.sciencedirect.com/science/article/pii/S0268003317300918)
+6. [Krijgsman, M., & Curet, P. (2009). Final Report Flock of Birds System. TUDelft.](https://repository.tudelft.nl/islandora/object/uuid%3A8edd9463-2c80-47a6-93ab-17b89f0b6671)
+7. [Henseler, J. F., Kolk, A., Zondag, B., Nagels, J., de Groot, J. H., & Nelissen, R. G. (2017). Three-dimensional shoulder motion after teres major or latissimus dorsi tendon transfer for posterosuperior rotator cuff tears. Journal of shoulder and elbow surgery, 26(11), 1955-1963.](https://www.sciencedirect.com/science/article/pii/S1058274617302033)
+8. [McVeigh KH, e. (2018). Accuracy and Validity of Goniometer and Visual Assessments of Angular Joint Positions of the Hand and Wrist. - PubMed - NCBI . Ncbi.nlm.nih.gov. Retrieved 26 December 2018, from https://www.ncbi.nlm.nih.gov/pubmed/26810826](https://www.ncbi.nlm.nih.gov/pubmed/26810826)
 
 Op een gegeven moment hebben we alle data ontvangen waar we ons onderzoek mee uit moesten voeren. We begrepen de data niet goed mede doordat overal lastige medische namen werden gebruik die wij niet kenden. Ook was voor ons niet heel duidelijk waar alle sensoren zaten en welke gewrichten dat waren. Daarom hebben ik en Vincent [dit plaatje](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/overzicht_sensoren-translated.pdf) gemaakt waarin wij de locaties van alle sensoren aan hebben gegeven en hebben de namen van de gewrichten erbij gezet in het nederlands en latijns zodat dit veel duidelijker zou worden voor het hele groepje. Dit hebben we gedaan op basis van [artikel 1](https://www.sciencedirect.com/science/article/pii/S002192900400301X).
 
 Ook heb ik voor het mijn teamleden uitgezocht wat dropouts en convolutional neural networks waren. Hier heb ik vervolgens ook 2 korte samenvattingen geschreven zodat zij alleen deze twee korte documentjes moesten lezen.
 - [CNN samenvatting](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/CNN%20in%20het%20kort.pdf)
 - [Dropouts samenvatting](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Dropouts%20in%20het%20kort.pdf)
+
+Tijdens dit project zijn we met het projectgroepje ook eens langsgeweest bij onze opdrachtgever (J. de Groot). Tijdens dit bezoek hebben we gepraat over dit onderzoek en zelf een meting gedaan om het systeem en de data beter te begrijpen.
 
 ## Gebouwde modellen
 
@@ -115,6 +123,7 @@ Over het algemeen was het paper mijn verantwoordelijkheid en hier heb ik dan ook
 
 ## Overig
 Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschool. Tijdens deze borrel hebben wij aan andere onderwijzers uitgelegd wat het doel is van dit project en waar wij precies mee bezig zijn. Dit hebben wij met behulp van [deze poster](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Poster_CvB-borrel.pdf) uitgelegd die ik en Vincent samen hebben gemaakt. Ik was er tijdens die borrel ook bij en heb aan veel geïnteresseerde docenten uitgelegd waar wij mee bezig waren.
+
 
 
 
