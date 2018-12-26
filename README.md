@@ -70,7 +70,8 @@ Helemaal op het begin van het dit project heb ik een hoop literatuur. Ik zal kor
 11. Een artikel dat ik heb gelezen voor extra informatie over convolutional neural networks. Dit heb ik ook gelezen om te checken wat er in bron 10 werd gezegd. Deze pagina heb ik ook gebruikt voor mijn korte samenvatting.
 12. Een githup pagina die ik heb gelezen om meer te weten te komen over dropouts. Ook heb ik een plaatje van deze pagina gebruikt in mijn samenvattig.
 13. Een artikel dat ik heb gelezen voor extra informatie over dropouts. Dit heb ik ook gelezen om te checken wat er in bron 12 werd gezegd. Deze pagina heb ik ook gebruikt voor mijn korte samenvatting over dropouts.
-En ik heb nog veel andere artikelen snel 'gescand' naar nuttige informatie.
+
+Ik heb nog veel andere artikelen snel 'gescand' naar nuttige informatie.
 
 ### Gelezen literatuur
 1.  [Wu, G., Van der Helm, F. C., Veeger, H. D., Makhsous, M., Van Roy, P., Anglin, C., ... & Werner, F. W. (2005). ISB recommendation on definitions of joint coordinate systems of various joints for the reporting of human joint motion—Part II: shoulder, elbow, wrist and hand. Journal of biomechanics, 38(5), 981-992.](https://www.sciencedirect.com/science/article/pii/S002192900400301X)
@@ -89,7 +90,6 @@ November 2018, from https://cs231n.github.io/neural-networks-2/#reg
 12. [Implementing Dropout in Neural Net - Agustinus Kristiadi's Blog. (2018). Wiseodd.github.io.
 Retrieved 20 November 2018, from https://wiseodd.github.io/techblog/2016/06/25/dropout/](https://wiseodd.github.io/techblog/2016/06/25/dropout/)
 13. [Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). Dropout: a simple way to prevent neural networks from overfitting. The Journal of Machine Learning Research, 15(1), 1929-1958.](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-En ik heb nog veel andere artikelen snel 'gescand' naar nuttige informatie.
 
 Op een gegeven moment hebben we alle data ontvangen waar we ons onderzoek mee uit moesten voeren. We begrepen de data niet goed mede doordat overal lastige medische namen werden gebruik die wij niet kenden. Ook was voor ons niet heel duidelijk waar alle sensoren zaten en welke gewrichten dat waren. Daarom hebben ik en Vincent [dit plaatje](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/overzicht_sensoren-translated.pdf) gemaakt waarin wij de locaties van alle sensoren aan hebben gegeven en hebben de namen van de gewrichten erbij gezet in het nederlands en latijns zodat dit veel duidelijker zou worden voor het hele groepje. Dit hebben we gedaan op basis van [artikel 1](https://www.sciencedirect.com/science/article/pii/S002192900400301X).
 
