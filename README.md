@@ -70,6 +70,7 @@ Helemaal op het begin van het dit project heb ik een hoop literatuur. Ik zal kor
 11. Een artikel dat ik heb gelezen voor extra informatie over convolutional neural networks. Dit heb ik ook gelezen om te checken wat er in bron 10 werd gezegd. Deze pagina heb ik ook gebruikt voor mijn korte samenvatting.
 12. Een githup pagina die ik heb gelezen om meer te weten te komen over dropouts. Ook heb ik een plaatje van deze pagina gebruikt in mijn samenvattig.
 13. Een artikel dat ik heb gelezen voor extra informatie over dropouts. Dit heb ik ook gelezen om te checken wat er in bron 12 werd gezegd. Deze pagina heb ik ook gebruikt voor mijn korte samenvatting over dropouts.
+14. Tijdens dit onderzoek moesten wij werken met time-series. Ik heb hier over gelezen en onderzoek naar gedaan om er achter te komen hoe wij hier mee om moesten gaan. Mede door mijn research hebben we in eerste instantie ervoor gekozen om alle metingen simpelweg te splitten.
 
 Ik heb nog veel andere artikelen snel 'gescand' naar nuttige informatie.
 
@@ -90,8 +91,9 @@ November 2018, from https://cs231n.github.io/neural-networks-2/#reg
 12. [Implementing Dropout in Neural Net - Agustinus Kristiadi's Blog. (2018). Wiseodd.github.io.
 Retrieved 20 November 2018, from https://wiseodd.github.io/techblog/2016/06/25/dropout/](https://wiseodd.github.io/techblog/2016/06/25/dropout/)
 13. [Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). Dropout: a simple way to prevent neural networks from overfitting. The Journal of Machine Learning Research, 15(1), 1929-1958.](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+14. [A/D conversion. (2018). Medicine.mcgill.ca. Retrieved 27 December 2018, from https://www.medicine.mcgill.ca/physio/vlab/biomed_signals/atodvlab.htm](https://www.medicine.mcgill.ca/physio/vlab/biomed_signals/atodvlab.htm)
 
-Op een gegeven moment hebben we alle data ontvangen waar we ons onderzoek mee uit moesten voeren. We begrepen de data niet goed mede doordat overal lastige medische namen werden gebruik die wij niet kenden. Ook was voor ons niet heel duidelijk waar alle sensoren zaten en welke gewrichten dat waren. Daarom hebben ik en Vincent [dit plaatje](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/overzicht_sensoren-translated.pdf) gemaakt waarin wij de locaties van alle sensoren aan hebben gegeven en hebben de namen van de gewrichten erbij gezet in het nederlands en latijns zodat dit veel duidelijker zou worden voor het hele groepje. Dit hebben we gedaan op basis van [artikel 1](https://www.sciencedirect.com/science/article/pii/S002192900400301X).
+Op een gegeven moment hebben we alle data ontvangen waar we ons onderzoek mee uit moesten voeren. We begrepen de data niet goed mede doordat overal lastige medische namen werden gebruik die wij niet kenden. Ook was voor ons niet heel duidelijk waar alle sensoren zaten en welke gewrichten dat waren. Daarom hebben ik en Vincent [dit plaatje](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/locatie-sensoren.png) gemaakt waarin wij de locaties van alle sensoren aan hebben gegeven. Een aantal wegen later hebben we een [nieuw en overzichtelijker plaatje](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/overzicht_sensoren-translated.pdf) gemaakt en hebben de namen van de gewrichten erbij gezet in het nederlands en latijns zodat dit veel duidelijker zou worden voor het hele groepje. Dit hebben we gedaan op basis van [artikel 1](https://www.sciencedirect.com/science/article/pii/S002192900400301X).
 
 Ook heb ik voor het mijn teamleden uitgezocht wat dropouts en convolutional neural networks waren. Hier heb ik vervolgens ook 2 korte samenvattingen geschreven zodat zij alleen deze twee korte documentjes moesten lezen.
 - [CNN samenvatting](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/CNN%20in%20het%20kort.pdf)
@@ -99,17 +101,26 @@ Ook heb ik voor het mijn teamleden uitgezocht wat dropouts en convolutional neur
 
 Tijdens dit project zijn we met het projectgroepje ook eens langsgeweest bij onze opdrachtgever (J. de Groot). Tijdens dit bezoek hebben we gepraat over dit onderzoek en zelf een meting gedaan om het 'Flock of birds'-systeem en de data beter te begrijpen.
 
-## Gebouwde modellen (Classifiers)
+## Gebouwde modellen
+
 
 ## Voorbereiden data
 Voordat we konden beginnen met het bouwen van classifiers op sample niveau moesten we alle time-series van alle metingen opsplitsen en in een apart .csv bestand zetten. Hier heb ik zelf een script voor geschreven. Alle metingen waarvan de naam al voorkwam in de folder met onze testdata werden overgeslagen. Dit script heb ik later ook opnieuw gebruikt om de gecleande data te splitten in aparte frames om de classifiers opnieuw te runnen.
+
 Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Datasplitser.ipynb) inzien.
+
+Ongeveer in week 15 van het onderzoek hebben we besloten data te cleanen in de hoop dat onze classifiers beter zouden worden. We bekeken de grafiekjes van de time-series van metingen en we splitten deze metingen indien oefeningen meerdere keren uit waren gevoerd en we haalden de 'noise' eruit door steeds het begin en einde van een time-series aan te passen. Hoe dit ging is te zien in onderstaand gifje. Ik heb significant meer oefeningen 'gecleaned' dan de rest omdat ik categorie 1 en 2/3e van categorie 4 heb gedaan.
+
 
 ## Visualisatie data
 Het eerste script dat ik heb geschreven om data te visualiseren is een script waarmee we snel konden kijken of een patient een afwijking naar links of rechts had. Dit heb ik gedaan door alle punten van de clavicula (links en rechts) te plotten in een scatter plot en hier een lineare regressie doorheen te trekken. Om snel veel oefeningen tegelijkertijd te kunnen vergelijken heb ik ervoor gekozen om alle plots op te slaan als foto's in een apart mapje. Hierdoor hoefden we niet steeds het script opnieuw runnen en konden we snel door alle foto's heen.
+
 Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/LinRegPhotoMaker.ipynb) inzien.
 
+Het volgende script dat ik heb geschreven waarmee data werd gevisualiseerd was een 
+
 ## Verzamelen data
+Op een gegeven moment wouden we de ellebooghoek (die aan is gegeven in onderstaand plaatje) 
 
 # Overig
 Hier staan alle overige activiteiten die niet eerder zijn genoemd.
