@@ -102,7 +102,15 @@ Ook heb ik voor het mijn teamleden uitgezocht wat dropouts en convolutional neur
 Tijdens dit project zijn we met het projectgroepje ook eens langsgeweest bij onze opdrachtgever (J. de Groot). Tijdens dit bezoek hebben we gepraat over dit onderzoek en zelf een meting gedaan om het 'Flock of birds'-systeem en de data beter te begrijpen.
 
 ## Gebouwde modellen
+In eerste instantie heeft Luke een eerste paar classifiers gebouwd met de voorbeeldcode die al op de datascience server stond in het /mltutorial mapje. Omdat het runnen van deze classifiers erg lang duurde heb ik samen met Vincent deze classifiers herbouwd in sklearn. Deze classifier hebben we verder in het project vaak opnieuw gebruikt en verder aangepast.
 
+De code hiervan kon helaas ik niet meer vinden. Daarna hebben we wel een 5in1 classifier gebouwd die deze classifier vier keer gebruikte. Deze 5in1 classifier was een soort van 2-traps classifier. Eerst zette hij alle categorieën individueel tegen de andere categorieën af. Daarna groepeerde hij de resultaten per patiënt en runde nog een classifier over deze resultaten en gaf die een uiteindelijke accuracy en recall. Deze classifier heb ik vrijwel zelf gebouwd.
+
+De code van deze oorspronkelijke classifier kan ik helaas niet meer vinden. Luke heeft deze 5in1 classifier later wel opgeschoond om de leesbaarheid te verbeterden. Deze code kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/5in1_v3.2%20-%20beautified%20split.ipynb) inzien.
+
+Later heb ik deze 5in1 classifier ook omgebouwd naar een neural network (MLPclassifier).
+
+De code van deze 5in1 MLPclassifier kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/5in1_v3%20--_%20Neural%20Network%20v1.0.ipynb) inzien.
 
 ## Voorbereiden data
 Voordat we konden beginnen met het bouwen van classifiers op sample niveau moesten we alle time-series van alle metingen opsplitsen en in een apart .csv bestand zetten. Hier heb ik zelf een script voor geschreven. Alle metingen waarvan de naam al voorkwam in de folder met onze testdata werden ook gesplitst en opgeslagen in een ander .csv bestand. Dit script heb ik later ook opnieuw gebruikt om de gecleande data te splitten in aparte frames om de classifiers opnieuw te runnen.
@@ -122,7 +130,7 @@ Het volgende script dat ik heb geschreven waarmee data werd gevisualiseerd was e
 ## Verzamelen data
 Op een gegeven moment wouden we de ellebooghoek (op punt 5 en 8 in onderstaand gifje) berekenen om deze ook mee te nemen als parameter in onze classifiers. Ik heb samen met Luke uitgezocht hoe we deze (moesten berekenen). Luke heeft dit echter verder afgemaakt en geïmplementeerd. Eenmaal toen we wisten hoe we e ellebookhoek konden berekenen konden we dit natuurlijk ook voor de rest van de hoeken doen. 
 
-<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/berekende_ellebooghoek.gif?raw=true" width="500px"></img>
+<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/berekende_ellebooghoek.gif?raw=true" width="400px"></img>
 
 # Overig
 Hier staan alle overige activiteiten die niet eerder zijn genoemd.
