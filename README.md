@@ -99,13 +99,15 @@ Ook heb ik voor het mijn teamleden uitgezocht wat dropouts en convolutional neur
 
 Tijdens dit project zijn we met het projectgroepje ook eens langsgeweest bij onze opdrachtgever (J. de Groot). Tijdens dit bezoek hebben we gepraat over dit onderzoek en zelf een meting gedaan om het 'Flock of birds'-systeem en de data beter te begrijpen.
 
-## Gebouwde modellen
+## Gebouwde modellen (Classifiers)
 
 ## Voorbereiden data
-- Voordat we konden beginnen met het bouwen van classifiers op sample niveau moesten we alle time-series van alle metingen opsplitsen en in een apart .csv bestand zetten. Hier heb ik zelf een script voor geschreven. Alle metingen waarvan de naam al voorkwam in de folder met onze testdata werden overgeslagen. Dit script heb ik later ook opnieuw gebruikt om de gecleande data te splitten in aparte frames om de classifiers opnieuw te runnen.
-  Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Datasplitser.ipynb) inzien.
+Voordat we konden beginnen met het bouwen van classifiers op sample niveau moesten we alle time-series van alle metingen opsplitsen en in een apart .csv bestand zetten. Hier heb ik zelf een script voor geschreven. Alle metingen waarvan de naam al voorkwam in de folder met onze testdata werden overgeslagen. Dit script heb ik later ook opnieuw gebruikt om de gecleande data te splitten in aparte frames om de classifiers opnieuw te runnen.
+Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Datasplitser.ipynb) inzien.
 
 ## Visualisatie data
+Het eerste script dat ik heb geschreven om data te visualiseren is een script waarmee we snel konden kijken of een patient een afwijking naar links of rechts had. Dit heb ik gedaan door alle punten van de clavicula (links en rechts) te plotten in een scatter plot en hier een lineare regressie doorheen te trekken. Om snel veel oefeningen tegelijkertijd te kunnen vergelijken heb ik ervoor gekozen om alle plots op te slaan als foto's in een apart mapje. Hierdoor hoefden we niet steeds het script opnieuw runnen en konden we snel door alle foto's heen.
+Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/LinRegPhotoMaker.ipynb) inzien.
 
 ## Verzamelen data
 
