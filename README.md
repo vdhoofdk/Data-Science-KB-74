@@ -104,9 +104,7 @@ Tijdens dit project zijn we met het projectgroepje ook eens langsgeweest bij onz
 ## Gebouwde modellen
 In eerste instantie heeft Luke een eerste paar classifiers gebouwd met de voorbeeldcode die al op de datascience server stond in het /mltutorial mapje. Omdat het runnen van deze classifiers erg lang duurde heb ik samen met Vincent deze classifiers herbouwd in sklearn. Deze classifier hebben we verder in het project vaak opnieuw gebruikt en verder aangepast.
 
-De code hiervan kon helaas ik niet meer vinden. Daarna hebben we wel een 5in1 classifier gebouwd die deze classifier vier keer gebruikte. Deze 5in1 classifier was een soort van 2-traps classifier. Eerst zette hij alle categorieën individueel tegen de andere categorieën af. Daarna groepeerde hij de resultaten per patiënt en runde nog een classifier over deze resultaten en gaf die een uiteindelijke accuracy en recall. Deze classifier heb ik vrijwel zelf gebouwd.
-
-De code van deze oorspronkelijke classifier kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/5in1_v3.0.ipynb) inzien.
+De code hiervan kon helaas ik niet meer vinden. Daarna hebben we wel een 5in1 classifier gebouwd die deze classifier vier keer gebruikte. Deze 5in1 classifier was een soort van 2-traps classifier. Eerst zette hij alle categorieën individueel tegen de andere categorieën af. Daarna groepeerde hij de resultaten per patiënt en runde nog een classifier over deze resultaten en gaf die een uiteindelijke accuracy en recall. Deze classifier heb ik vrijwel zelf gebouwd. De code van deze classifier kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/5in1_v3.0.ipynb) inzien.
 
 Later heb ik deze 5in1 classifier ook omgebouwd naar een neural network (MLPclassifier). De code van deze 5in1 MLPclassifier kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/5in1_v3%20--_%20Neural%20Network%20v1.0.ipynb) inzien.
 
