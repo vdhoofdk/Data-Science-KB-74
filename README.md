@@ -105,7 +105,7 @@ Tijdens dit project zijn we met het projectgroepje ook eens langsgeweest bij onz
 
 
 ## Voorbereiden data
-Voordat we konden beginnen met het bouwen van classifiers op sample niveau moesten we alle time-series van alle metingen opsplitsen en in een apart .csv bestand zetten. Hier heb ik zelf een script voor geschreven. Alle metingen waarvan de naam al voorkwam in de folder met onze testdata werden overgeslagen. Dit script heb ik later ook opnieuw gebruikt om de gecleande data te splitten in aparte frames om de classifiers opnieuw te runnen.
+Voordat we konden beginnen met het bouwen van classifiers op sample niveau moesten we alle time-series van alle metingen opsplitsen en in een apart .csv bestand zetten. Hier heb ik zelf een script voor geschreven. Alle metingen waarvan de naam al voorkwam in de folder met onze testdata werden ook gesplitst en opgeslagen in een ander .csv bestand. Dit script heb ik later ook opnieuw gebruikt om de gecleande data te splitten in aparte frames om de classifiers opnieuw te runnen.
 
 Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Datasplitser.ipynb) inzien.
 
@@ -121,7 +121,8 @@ Het volgende script dat ik heb geschreven waarmee data werd gevisualiseerd was e
 
 ## Verzamelen data
 Op een gegeven moment wouden we de ellebooghoek (op punt 5 en 8 in onderstaand gifje) berekenen om deze ook mee te nemen als parameter in onze classifiers. Ik heb samen met Luke uitgezocht hoe we deze (moesten berekenen). Luke heeft dit echter verder afgemaakt en geïmplementeerd. Eenmaal toen we wisten hoe we e ellebookhoek konden berekenen konden we dit natuurlijk ook voor de rest van de hoeken doen. 
-<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/berekende_ellebooghoek.gif?raw=true" width="100px"></img>
+
+<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/berekende_ellebooghoek.gif?raw=true" width="500px"></img>
 
 # Overig
 Hier staan alle overige activiteiten die niet eerder zijn genoemd.
@@ -154,6 +155,10 @@ Over het algemeen was het paper mijn verantwoordelijkheid en hier heb ik dan ook
 
 ## Overig
 Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschool. Tijdens deze borrel hebben wij aan andere onderwijzers uitgelegd wat het doel is van dit project en waar wij precies mee bezig zijn. Dit hebben wij met behulp van [deze poster](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Poster_CvB-borrel.pdf) uitgelegd die ik en Vincent samen hebben gemaakt. Ik was er tijdens die borrel ook bij en heb aan veel geïnteresseerde docenten uitgelegd waar wij mee bezig waren.
+
+Dit is een impressie van onze 'presentatie' bij de CvB-borrel.
+<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/cvb-borrel.jpg?raw=true"></img>
+
 
 
 
