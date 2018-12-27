@@ -1,4 +1,7 @@
+Klik [hier](https://vdhoofdk.github.io/Data-Science-KB-74/) om de 'nette' versie van dit portfolio in te zien.
+
 # Data Science Minor KB-74 Portfolio
+
 Welkom in mijn portfolio dat ik heb gemaakt voor de Data Science Minor KB74. Tijdens deze minor heb ik samen met 3 andere teamleden onder begeleiding van T. Andrioli een onderzoek uitgevoerd in opdracht van J. de Groot die een onderzoeker is aan het Leids Universitair Medisch Centrum (LUMC).
 
 Ons doel tijdens dit onderzoek was om te achterhalen of het 'flock-of-birds'-systeem dat momenteel door het LUMC enkel wordt gebruikt voor onderzoeksdoeleinden of dat het ook gebruikt kan worden voor de diagnostische doeleinden.
