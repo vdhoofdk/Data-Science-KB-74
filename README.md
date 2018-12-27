@@ -108,14 +108,10 @@ De code hiervan kon helaas ik niet meer vinden. Daarna hebben we wel een 5in1 cl
 
 De code van deze oorspronkelijke classifier kan ik helaas niet meer vinden. Luke heeft deze 5in1 classifier later wel opgeschoond om de leesbaarheid te verbeterden. Deze code kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/5in1_v3.2%20-%20beautified%20split.ipynb) inzien.
 
-Later heb ik deze 5in1 classifier ook omgebouwd naar een neural network (MLPclassifier).
-
-De code van deze 5in1 MLPclassifier kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/5in1_v3%20--_%20Neural%20Network%20v1.0.ipynb) inzien.
+Later heb ik deze 5in1 classifier ook omgebouwd naar een neural network (MLPclassifier). De code van deze 5in1 MLPclassifier kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/5in1_v3%20--_%20Neural%20Network%20v1.0.ipynb) inzien.
 
 ## Voorbereiden data
-Voordat we konden beginnen met het bouwen van classifiers op sample niveau moesten we alle time-series van alle metingen opsplitsen en in een apart .csv bestand zetten. Hier heb ik zelf een script voor geschreven. Alle metingen waarvan de naam al voorkwam in de folder met onze testdata werden ook gesplitst en opgeslagen in een ander .csv bestand. Dit script heb ik later ook opnieuw gebruikt om de gecleande data te splitten in aparte frames om de classifiers opnieuw te runnen.
-
-Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Datasplitser.ipynb) inzien.
+Voordat we konden beginnen met het bouwen van classifiers op sample niveau moesten we alle time-series van alle metingen opsplitsen en in een apart .csv bestand zetten. Hier heb ik zelf een script voor geschreven. Alle metingen waarvan de naam al voorkwam in de folder met onze testdata werden ook gesplitst en opgeslagen in een ander .csv bestand. Dit script heb ik later ook opnieuw gebruikt om de gecleande data te splitten in aparte frames om de classifiers opnieuw te runnen. Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Datasplitser.ipynb) inzien.
 
 Ongeveer in week 15 van het onderzoek hebben we besloten data te cleanen in de hoop dat onze classifiers beter zouden worden. We bekeken de grafiekjes van de time-series van metingen en we splitten deze metingen indien oefeningen meerdere keren uit waren gevoerd en we haalden de 'noise' eruit door steeds het begin en einde van een time-series aan te passen. Hoe dit ging is te zien in onderstaand gifje. Ik heb significant meer oefeningen 'gecleaned' dan de rest omdat ik categorie 1 en 2/3e van categorie 4 heb gedaan.
 
@@ -128,9 +124,14 @@ Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/mas
 Het volgende script dat ik heb geschreven waarmee data werd gevisualiseerd was een 
 
 ## Verzamelen data
-Op een gegeven moment wouden we de ellebooghoek (op punt 5 en 8 in onderstaand gifje) berekenen om deze ook mee te nemen als parameter in onze classifiers. Ik heb samen met Luke uitgezocht hoe we deze (moesten berekenen). Luke heeft dit echter verder afgemaakt en geïmplementeerd. Eenmaal toen we wisten hoe we e ellebookhoek konden berekenen konden we dit natuurlijk ook voor de rest van de hoeken doen. 
+Op een gegeven moment wouden we de ellebooghoek (op punt 5 en 8 in figuur 1) berekenen om deze ook mee te nemen als parameter in onze classifiers. Ik heb samen met Luke uitgezocht hoe we deze (moesten berekenen). Luke heeft dit echter verder afgemaakt en geïmplementeerd. Eenmaal toen we wisten hoe we de ellebookhoek konden berekenen konden we dit natuurlijk ook voor de rest van de hoeken doen. Dit is dan later ook gedaan (te zien in figuur 2)
 
-<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/berekende_ellebooghoek.gif?raw=true" width="400px"></img>
+| <img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/berekende_ellebooghoek.gif?raw=true" width="400px"></img> | <img src="https://i.imgur.com/Zc6jT79.gif" width="400px"></img> |
+| Figuur 1 | Figuur 2 |
+
+
+
+
 
 # Overig
 Hier staan alle overige activiteiten die niet eerder zijn genoemd.
