@@ -102,8 +102,8 @@ Tijdens dit project zijn we met het projectgroepje ook eens langsgeweest bij onz
 ## Gebouwde modellen
 
 ## Voorbereiden data
-
-1. Tijdens dit project moesten we werken met metingen van patiënten. Deze metingen zijn 'time-series' die bestaan uit 80 tot 140 frames. Een manier om met ''
+- Voordat we konden beginnen met het bouwen van classifiers op sample niveau moesten we alle time-series van alle metingen opsplitsen en in een apart .csv bestand zetten. Hier heb ik zelf een script voor geschreven. Alle metingen waarvan de naam al voorkwam in de folder met onze testdata werden overgeslagen. Dit script heb ik later ook opnieuw gebruikt om de gecleande data te splitten in aparte frames om de classifiers opnieuw te runnen.
+  Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Datasplitser.ipynb) inzien.
 
 ## Visualisatie data
 
