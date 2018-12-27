@@ -97,7 +97,7 @@ Ook heb ik voor het mijn teamleden uitgezocht wat dropouts en convolutional neur
 - [CNN samenvatting](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/CNN%20in%20het%20kort.pdf)
 - [Dropouts samenvatting](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Dropouts%20in%20het%20kort.pdf)
 
-Tijdens dit project zijn we met het projectgroepje ook eens langsgeweest bij onze opdrachtgever (J. de Groot). Tijdens dit bezoek hebben we gepraat over dit onderzoek en zelf een meting gedaan om het systeem en de data beter te begrijpen.
+Tijdens dit project zijn we met het projectgroepje ook eens langsgeweest bij onze opdrachtgever (J. de Groot). Tijdens dit bezoek hebben we gepraat over dit onderzoek en zelf een meting gedaan om het 'Flock of birds'-systeem en de data beter te begrijpen.
 
 ## Gebouwde modellen
 
