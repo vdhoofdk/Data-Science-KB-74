@@ -112,8 +112,7 @@ Later heb ik deze 5in1 classifier ook omgebouwd naar een neural network (MLPclas
 
 XXXXXXXXXXXXXXXXXXXXXXXXXEen andere classifier die ik heb gebouwd samen met luke is een patient-level classifier (neural network). Helaas was deze aam het overfitten.
 
-Samen met Vincent heb ik ook vier k-NN classifiers gebouwd die ook de optimale k vonden tussen 1 en 10. Het waren er vier omdat telkens een categorie tegen de andere categorieën af werd gezet. Deze code is [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Zoek%20de%20verschillen%20v2.2%20-%20kasper.ipynb) in te zien. Onderstaand plaatje laat zien hoe zelfde oefeningen in verschillende categorieën met elkaar werden vergeleken.
-<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/vergelijking_oefeningen.png?raw=true"></img> 
+XXXXXXXXXXXXXXXXSamen met Vincent heb ik ook vier k-NN classifiers gebouwd die ook de optimale k vonden tussen 1 en 10. Het waren er vier omdat telkens een categorie tegen de andere categorieën af werd gezet. Deze code is [hier]() in te zien. 
 
 ## Voorbereiden data
 Voordat we konden beginnen met het bouwen van classifiers op sample niveau moesten we alle time-series van alle metingen opsplitsen en in een apart .csv bestand zetten. Hier heb ik zelf een script voor geschreven. Alle metingen waarvan de naam al voorkwam in de folder met onze testdata werden ook gesplitst en opgeslagen in een ander .csv bestand. Dit script heb ik later ook opnieuw gebruikt om de gecleande data te splitten in aparte frames om de classifiers opnieuw te runnen. Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Datasplitser.ipynb) inzien.
@@ -126,7 +125,9 @@ Het eerste script dat ik heb geschreven om data te visualiseren is een script wa
 
 Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/LinRegPhotoMaker.ipynb) inzien.
 
-Op een gegeven moment in het onderzoek wouden we verschillende oefeningen van alle 4 de categorieën met elkaar vergelijken omdat we een exercise-level classifier wilden bouwen die enkel dezelfde oefeningen mee zou nemen. Ik heb hier een scriptje voor geschreven waarmee ik je makkelijk 4 verschillende oefeningen (de plots) van 4 categorieën kon bekijken.  
+Op een gegeven moment in het onderzoek wouden we verschillende oefeningen van alle 4 de categorieën met elkaar vergelijken omdat we een exercise-level classifier wilden bouwen die enkel dezelfde oefeningen mee zou nemen. Ik heb hier een scriptje voor geschreven waarmee ik je makkelijk 4 verschillende oefeningen (de plots) van 4 categorieën kon bekijken. Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Zoek%20de%20verschillen%20v2.2%20-%20kasper.ipynb) inzien. Onderstaand plaatje laat zien hoe zelfde oefeningen in verschillende categorieën met elkaar werden vergeleken.
+
+<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/vergelijking_oefeningen.png?raw=true"></img> 
 
 ## Verzamelen data
 Op een gegeven moment wouden we de ellebooghoek (op punt 5 en 8 in onderstaand plaatje) berekenen om deze ook mee te nemen als parameter in onze classifiers. Ik heb samen met Luke uitgezocht hoe we deze (moesten berekenen). Luke heeft dit echter verder afgemaakt en geïmplementeerd. Eenmaal toen we wisten hoe we de ellebookhoek konden berekenen konden we dit natuurlijk ook voor de rest van de hoeken doen. 
