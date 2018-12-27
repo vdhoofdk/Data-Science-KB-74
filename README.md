@@ -113,7 +113,7 @@ Later heb ik deze 5in1 classifier ook omgebouwd naar een neural network (MLPclas
 XXXXXXXXXXXXXXXXXXXXXXXXXEen andere classifier die ik heb gebouwd samen met luke is een patient-level classifier (neural network). Helaas was deze aam het overfitten.
 
 Samen met Vincent heb ik ook vier k-NN classifiers gebouwd die ook de optimale k vonden tussen 1 en 10. Het waren er vier omdat telkens een categorie tegen de andere categorieën af werd gezet. Deze code is [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Zoek%20de%20verschillen%20v2.2%20-%20kasper.ipynb) in te zien. Onderstaand plaatje laat zien hoe zelfde oefeningen in verschillende categorieën met elkaar werden vergeleken.
-<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/berekende_ellebooghoek.gif?raw=true" width="400px"></img> 
+<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/vergelijking_oefeningen.png?raw=true"></img> 
 
 ## Voorbereiden data
 Voordat we konden beginnen met het bouwen van classifiers op sample niveau moesten we alle time-series van alle metingen opsplitsen en in een apart .csv bestand zetten. Hier heb ik zelf een script voor geschreven. Alle metingen waarvan de naam al voorkwam in de folder met onze testdata werden ook gesplitst en opgeslagen in een ander .csv bestand. Dit script heb ik later ook opnieuw gebruikt om de gecleande data te splitten in aparte frames om de classifiers opnieuw te runnen. Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Datasplitser.ipynb) inzien.
