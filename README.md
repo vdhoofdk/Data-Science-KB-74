@@ -128,12 +128,12 @@ Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/mas
 
 Op een gegeven moment in het onderzoek wouden we verschillende oefeningen van alle 4 de categorieën met elkaar vergelijken omdat we een exercise-level classifier wilden bouwen die enkel dezelfde oefeningen mee zou nemen. Ik heb hier een scriptje voor geschreven waarmee ik je makkelijk 4 verschillende oefeningen (de plots) van 4 categorieën kon bekijken. Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Zoek%20de%20verschillen%20v2.2%20-%20kasper.ipynb) inzien. Onderstaand plaatje laat zien hoe zelfde oefeningen in verschillende categorieën met elkaar werden vergeleken.
 
-<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/vergelijking_oefeningen.png?raw=true"></img> 
+<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/vergelijking_oefeningen.png?raw=true">
 
 ## Verzamelen data
 Op een gegeven moment wouden we de ellebooghoek (op punt 5 en 8 in onderstaand plaatje) berekenen om deze ook mee te nemen als parameter in onze classifiers. Ik heb samen met Luke uitgezocht hoe we deze (moesten berekenen). Luke heeft dit echter verder afgemaakt en geïmplementeerd. Eenmaal toen we wisten hoe we de ellebookhoek konden berekenen konden we dit natuurlijk ook voor de rest van de hoeken doen. 
 
-<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/berekende_ellebooghoek.gif?raw=true" width="400px"></img> 
+<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/berekende_ellebooghoek.gif?raw=true" width="400px">
 
 # Overig
 Hier staan alle overige activiteiten die niet eerder zijn genoemd.
@@ -168,7 +168,7 @@ Over het algemeen was het paper mijn verantwoordelijkheid en hier heb ik dan ook
 Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschool. Tijdens deze borrel hebben wij aan andere onderwijzers uitgelegd wat het doel is van dit project en waar wij precies mee bezig zijn. Dit hebben wij met behulp van [deze poster](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Poster_CvB-borrel.pdf) uitgelegd die ik en Vincent samen hebben gemaakt. Ik was er tijdens die borrel ook bij en heb aan veel geïnteresseerde docenten uitgelegd waar wij mee bezig waren.
 
 Dit is een impressie van onze 'presentatie' bij de CvB-borrel.
-<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/cvb-borrel.jpg?raw=true"></img>
+<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/cvb-borrel.jpg?raw=true">
 
 
 
