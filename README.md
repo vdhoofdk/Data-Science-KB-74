@@ -121,7 +121,7 @@ Het volgende script dat ik heb geschreven waarmee data werd gevisualiseerd was e
 
 ## Verzamelen data
 Op een gegeven moment wouden we de ellebooghoek (op punt 5 en 8 in onderstaand gifje) berekenen om deze ook mee te nemen als parameter in onze classifiers. Ik heb samen met Luke uitgezocht hoe we deze (moesten berekenen). Luke heeft dit echter verder afgemaakt en geïmplementeerd. Eenmaal toen we wisten hoe we e ellebookhoek konden berekenen konden we dit natuurlijk ook voor de rest van de hoeken doen. 
-<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/berekende_ellebooghoek.gif?raw=true" style="width:500px;height:500px;"></img>
+<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/berekende_ellebooghoek.gif?raw=true" width="100px"></img>
 
 # Overig
 Hier staan alle overige activiteiten die niet eerder zijn genoemd.
