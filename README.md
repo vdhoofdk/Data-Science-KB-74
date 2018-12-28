@@ -1,5 +1,4 @@
-<p align="center">
-**Klik [hier](https://vdhoofdk.github.io/Data-Science-KB-74/) om de 'nette' versie van dit portfolio in te zien.**</p>
+**Klik [hier](https://vdhoofdk.github.io/Data-Science-KB-74/) om de 'nette' versie van dit portfolio in te zien.**
 
 # Data Science Minor KB-74 Portfolio
 
@@ -112,20 +111,19 @@ De code hiervan kon helaas ik niet meer vinden. Daarna hebben we wel een 5in1 cl
 
 Later heb ik deze 5in1 classifier ook omgebouwd naar een neural network (MLPclassifier). De code van deze 5in1 MLPclassifier kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/5in1_v3%20--_%20Neural%20Network%20v1.0.ipynb) inzien.
 
-XXXXXXXXXXXXXXXXXXXXXXXXXEen andere classifier die ik heb gebouwd samen met luke is een patient-level classifier (neural network). Helaas was deze aam het overfitten.
+XXXXXXXXXXXXXXXEen andere classifier die ik heb gebouwd samen met luke is een patient-level classifier (neural network). We hebben samen het optimale aantal layers en nodes geprobeerd te vinden. De code van dit neural network is [hier]() te vinden.
 
 XXXXXXXXXXXXXXXXSamen met Vincent heb ik ook vier k-NN classifiers gebouwd die ook de optimale k vonden tussen 1 en 10. Het waren er vier omdat telkens een categorie tegen de andere categorieën af werd gezet. Deze code is [hier]() in te zien. 
+
+XXXXXXXXXVoor de resultaten van alle classifiers raad ik u als lezer aan om [ons paper] te lezen.
 
 ## Voorbereiden data
 Voordat we konden beginnen met het bouwen van classifiers op sample niveau moesten we alle time-series van alle metingen opsplitsen en in een apart .csv bestand zetten. Hier heb ik zelf een script voor geschreven. Alle metingen waarvan de naam al voorkwam in de folder met onze testdata werden ook gesplitst en opgeslagen in een ander .csv bestand. Dit script heb ik later ook opnieuw gebruikt om de gecleande data te splitten in aparte frames om de classifiers opnieuw te runnen. Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Datasplitser.ipynb) inzien.
 
 Ongeveer in week 15 van het onderzoek hebben we besloten data te cleanen in de hoop dat onze classifiers beter zouden worden. We bekeken de grafiekjes van de time-series van metingen en we splitten deze metingen indien oefeningen meerdere keren uit waren gevoerd en we haalden de 'noise' eruit door steeds het begin en einde van een time-series aan te passen. Hoe dit ging is te zien in onderstaand gifje. Ik heb significant meer oefeningen 'gecleaned' dan de rest omdat ik categorie 1 en 2/3e van categorie 4 heb gedaan.
 
-
 ## Visualisatie data
-Het eerste script dat ik heb geschreven om data te visualiseren is een script waarmee we snel konden kijken of een patient een afwijking naar links of rechts had. Dit heb ik gedaan door alle punten van de clavicula (links en rechts) te plotten in een scatter plot en hier een lineare regressie doorheen te trekken. Om snel veel oefeningen tegelijkertijd te kunnen vergelijken heb ik ervoor gekozen om alle plots op te slaan als foto's in een apart mapje. Hierdoor hoefden we niet steeds het script opnieuw runnen en konden we snel door alle foto's heen.
-
-Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/LinRegPhotoMaker.ipynb) inzien.
+Het eerste script dat ik heb geschreven om data te visualiseren is een script waarmee we snel konden kijken of een patient een afwijking naar links of rechts had. Dit heb ik gedaan door alle punten van de clavicula (links en rechts) te plotten in een scatter plot en hier een lineare regressie doorheen te trekken. Om snel veel oefeningen tegelijkertijd te kunnen vergelijken heb ik ervoor gekozen om alle plots op te slaan als foto's in een apart mapje. Hierdoor hoefden we niet steeds het script opnieuw runnen en konden we snel door alle foto's heen. Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/LinRegPhotoMaker.ipynb) inzien.
 
 Op een gegeven moment in het onderzoek wouden we verschillende oefeningen van alle 4 de categorieën met elkaar vergelijken omdat we een exercise-level classifier wilden bouwen die enkel dezelfde oefeningen mee zou nemen. Ik heb hier een scriptje voor geschreven waarmee ik je makkelijk 4 verschillende oefeningen (de plots) van 4 categorieën kon bekijken. Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Zoek%20de%20verschillen%20v2.2%20-%20kasper.ipynb) inzien. Onderstaand plaatje laat zien hoe zelfde oefeningen in verschillende categorieën met elkaar werden vergeleken.
 
@@ -170,8 +168,3 @@ Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschoo
 
 Dit is een impressie van onze 'presentatie' bij de CvB-borrel.
 <img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/cvb-borrel.jpg?raw=true">
-
-
-
-
-
