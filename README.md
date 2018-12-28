@@ -1,4 +1,5 @@
-<center>**Klik [hier](https://vdhoofdk.github.io/Data-Science-KB-74/) om de 'nette' versie van dit portfolio in te zien.**</center>
+<p align="center">
+**Klik [hier](https://vdhoofdk.github.io/Data-Science-KB-74/) om de 'nette' versie van dit portfolio in te zien.**</p>
 
 # Data Science Minor KB-74 Portfolio
 
