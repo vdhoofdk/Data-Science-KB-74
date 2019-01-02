@@ -113,7 +113,7 @@ Later heb ik deze 5in1 classifier ook omgebouwd naar een neural network (MLPclas
 
 Een andere classifier die ik heb gebouwd samen met Luke is een patient-level classifier (neural network). Nadat we dit neural network werkend hebben gekregen bleek de classifier te overfitten omdat we de data fout aan het splitten waren. Nadat Luke het probleem met het splitten van de data samen met onze docent heeft opgelost hebben we weer dezelfde classifier gerund. Nadat we  De code van deze classifier is [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Classifier%20Neural%20Network%204Y%20v0.3%20-%20Real%20Test.ipynb) te vinden. 
 
-XXXXXXXXXXXXXXXXSamen met Vincent heb ik ook een k-NN classifier gebouwd die ook de optimale k kon vinden tussen 1 en 10. Deze kNN classifier is vier keer gerund. Elke keer werd weer een andere een categorie tegen de rest van de categorieën afgezet. Deze code is [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/classifier%20cat%204%20versie%202.43.ipynb) in te zien. 
+Samen met Vincent heb ik ook een k-NN classifier gebouwd die ook de optimale k kon vinden tussen 1 en 10. Deze kNN classifier is vier keer gerund. Elke keer werd weer een andere een categorie tegen de rest van de categorieën afgezet. Deze code is [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/classifier%20cat%204%20versie%202.43.ipynb) in te zien. 
 
 Voor de resultaten van alle classifiers raad ik u aan om ons paper te lezen.
 
