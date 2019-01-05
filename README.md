@@ -74,6 +74,7 @@ Helemaal op het begin van het dit project heb ik een hoop literatuur. Ik zal kor
 12. Een githup pagina die ik heb gelezen om meer te weten te komen over dropouts. Ook heb ik een plaatje van deze pagina gebruikt in mijn samenvattig.
 13. Een artikel dat ik heb gelezen voor extra informatie over dropouts. Dit heb ik ook gelezen om te checken wat er in bron 12 werd gezegd. Deze pagina heb ik ook gebruikt voor mijn korte samenvatting over dropouts.
 14. Tijdens dit onderzoek moesten wij werken met time-series. Ik heb hier over gelezen en onderzoek naar gedaan om er achter te komen hoe wij hier mee om moesten gaan. Mede door mijn research hebben we in eerste instantie ervoor gekozen om alle metingen simpelweg te splitten.
+15. Deze bron heb ik gebruikt om uit te zoeken hoe we de oppervlakte (energie van een oefening) moesten berekenen. We hebben hier later vervolgens een classifier mee gebouwd.
 
 Ik heb nog veel andere artikelen snel 'gescand' naar nuttige informatie.
 
@@ -95,6 +96,7 @@ November 2018, from https://cs231n.github.io/neural-networks-2/#reg
 Retrieved 20 November 2018, from https://wiseodd.github.io/techblog/2016/06/25/dropout/](https://wiseodd.github.io/techblog/2016/06/25/dropout/)
 13. [Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). Dropout: a simple way to prevent neural networks from overfitting. The Journal of Machine Learning Research, 15(1), 1929-1958.](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 14. [A/D conversion. (2018). Medicine.mcgill.ca. Retrieved 27 December 2018, from https://www.medicine.mcgill.ca/physio/vlab/biomed_signals/atodvlab.htm](https://www.medicine.mcgill.ca/physio/vlab/biomed_signals/atodvlab.htm)
+15. [(2019). Wetenschapsschool.nl. Retrieved 5 January 2019, from https://www.wetenschapsschool.nl/chapter/Beweging_4_Oppervlaktemethode.html](https://www.wetenschapsschool.nl/chapter/Beweging_4_Oppervlaktemethode.html)
 
 Op een gegeven moment hebben we alle data ontvangen waar we ons onderzoek mee uit moesten voeren. We begrepen de data niet goed mede doordat overal lastige medische namen werden gebruik die wij niet kenden. Ook was voor ons niet heel duidelijk waar alle sensoren zaten en welke gewrichten dat waren. Daarom hebben ik en Vincent [dit plaatje](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/locatie-sensoren.png) gemaakt waarin wij de locaties van alle sensoren aan hebben gegeven. Een aantal wegen later hebben we een [nieuw en overzichtelijker plaatje](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/overzicht_sensoren-translated.pdf) gemaakt en hebben de namen van de gewrichten erbij gezet in het nederlands en latijns zodat dit veel duidelijker zou worden voor het hele groepje. Dit hebben we gedaan op basis van [artikel 1](https://www.sciencedirect.com/science/article/pii/S002192900400301X).
 
