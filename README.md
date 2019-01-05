@@ -107,9 +107,9 @@ Ook heb ik voor het mijn teamleden uitgezocht wat dropouts en convolutional neur
 Tijdens dit project zijn we met het projectgroepje ook eens langsgeweest bij onze opdrachtgever (J. de Groot). Tijdens dit bezoek hebben we gepraat over dit onderzoek en zelf een meting gedaan om het 'Flock of birds'-systeem en de data beter te begrijpen.
 
 ## Gebouwde modellen
-In eerste instantie heeft Luke een eerste paar classifiers gebouwd met de voorbeeldcode die al op de datascience server stond in het /mltutorial mapje. Omdat het runnen van deze classifiers erg lang duurde heb ik samen met Vincent deze classifiers herbouwd in sklearn. Deze classifier hebben we verder in het project vaak opnieuw gebruikt en verder aangepast.De code hiervan kon helaas ik niet meer vinden. 
+In eerste instantie heeft Luke een eerste paar classifiers gebouwd met de voorbeeldcode die al op de datascience server stond in het /mltutorial mapje. Omdat het runnen van deze classifiers erg lang duurde heb ik samen met Vincent deze classifiers herbouwd in sklearn. Deze classifier hebben we verder in het project vaak opnieuw gebruikt en verder aangepast. De code hiervan kon helaas ik niet meer vinden. 
 
-Daarna hebben we wel een 5in1 classifier gebouwd die deze classifier vier keer gebruikte. Deze 5in1 classifier was een soort van 2-traps classifier. Eerst zette hij alle categorieën individueel tegen de andere categorieën af. Daarna groepeerde hij de resultaten per patiënt en runde nog een classifier over deze resultaten en gaf die een uiteindelijke accuracy en recall. Deze classifier heb ik vrijwel zelf gebouwd. De code van deze classifier kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/5in1_v3.0.ipynb) inzien.
+Daarna hebben we wel een 5in1 classifier gebouwd die deze classifier vier keer gebruikte. Deze 5in1 classifier was een soort van 2-traps classifier. Eerst zette hij alle categorieën individueel tegen de andere categorieën af. Daarna groepeerde hij de resultaten per patiënt en runde nog een classifier over deze resultaten en gaf die een uiteindelijke accuracy en recall. Deze classifier heb ik vrijwel zelf gebouwd. Qua geschreven code ben ik het meest trots op deze classifier. Dit komt vooral door de moeilijkheidsgraad en het feit dat ik hem bijna zelf heb geschreven. De code van deze classifier kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/5in1_v3.0.ipynb) inzien.
 
 Later heb ik deze 5in1 classifier ook omgebouwd naar een neural network (MLPclassifier). De code van deze 5in1 MLPclassifier kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/5in1_v3%20--_%20Neural%20Network%20v1.0.ipynb) inzien.
 
@@ -154,11 +154,13 @@ Ik heb vrijwillig meer presentaties gegeven en voorbereid omdat niemand anders i
 ## Bijdrage Paper
 Het paper dat [hier]() te zien is heb ik voor het grootste deel geschreven. In de laatste weken focuste ik me voornamelijk op het schrijven van het paper terwijl mijn projectgenoten de laatste scripts schreven en uitvoerden. Van het paper heb ik:
 - De opmaak verzorgd
-- De volgende hoofdstukken geschreven
+- Structuur bedacht
+- De volgende hoofdstukken geschreven:
   - Introduction
   - The data and its preparation
   - Research strategy & execution
-  - Results
+  - Results (half geschreven en ik heb de tabel gemaakt)
+  - Discussion
 - Literatuur gezocht
 - Literatuurlijst opgesteld en netjes (APA) ingevoerd
 - Laatste spellingscheck
