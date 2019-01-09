@@ -152,14 +152,15 @@ Iedere week moesten er natuurlijk presentaties worden gegeven. Deze presentaties
 Ik heb vrijwillig meer presentaties gegeven en voorbereid omdat niemand anders in mijn groepje dit wou doen. Hierdoor kon de rest van mijn groepje zich blijven focussen op het programmeren. Ik wou niet alleen maar met programmeren bezig zijn en ik had af en toe de afwisseling nodig.
 
 ## Bijdrage Paper
-Het paper dat [hier]() te zien is heb ik voor het grootste deel geschreven. In de laatste weken focuste ik me voornamelijk op het schrijven van het paper terwijl mijn projectgenoten de laatste scripts schreven en uitvoerden. Van het paper heb ik:
+Het paper heb ik voor het grootste deel geschreven. In de laatste weken focuste ik me voornamelijk op het schrijven van het paper terwijl mijn projectgenoten de laatste scripts schreven en uitvoerden. Van het paper heb ik:
 - De opmaak verzorgd
 - Structuur bedacht
 - De volgende hoofdstukken geschreven:
   - Introduction
   - The data and its preparation
   - Research strategy & execution
-  - Results (half geschreven en ik heb de tabel gemaakt)
+  - Results (inhoud bedacht en ik heb de tabel gemaakt)
+  - Conclusion (inhoud bedacht)
   - Discussion
 - Literatuur gezocht
 - Literatuurlijst opgesteld en netjes (APA) ingevoerd
