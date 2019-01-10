@@ -120,7 +120,7 @@ Een andere classifier die ik heb gebouwd samen met Luke is een patient-level cla
 
 Samen met Vincent heb ik ook een k-NN classifier gebouwd die ook de optimale k kon vinden tussen 1 en 10. Deze kNN classifier is vier keer gerund. Elke keer werd weer een andere een categorie tegen de rest van de categorieën afgezet. Deze code is [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/classifier%20cat%204%20versie%202.43.ipynb) in te zien. In het paper zijn dit classifiers no. 7 t/m 10 
 
-Voor de resultaten van alle classifiers raad ik u aan om ons paper te lezen.
+Voor de resultaten van alle classifiers raad ik u aan om ons [paper](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/paper_ortho_eyes.pdf) te lezen.
 
 ## Voorbereiden data
 Voordat we konden beginnen met het bouwen van classifiers op sample niveau moesten we alle time-series van alle metingen opsplitsen en in een apart .csv bestand zetten. Hier heb ik zelf een script voor geschreven. Alle metingen waarvan de naam al voorkwam in de folder met onze testdata werden ook gesplitst en opgeslagen in een ander .csv bestand. Dit script heb ik later ook opnieuw gebruikt om de gecleande data te splitten in aparte frames om de classifiers opnieuw te runnen. Dit script kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Datasplitser.ipynb) inzien.
@@ -155,7 +155,7 @@ Iedere week moesten er natuurlijk presentaties worden gegeven. Deze presentaties
 Ik heb vrijwillig meer presentaties gegeven en voorbereid omdat niemand anders in mijn groepje dit wou doen. Hierdoor kon de rest van mijn groepje zich blijven focussen op het programmeren. Ik wou niet alleen maar met programmeren bezig zijn en ik had af en toe de afwisseling nodig.
 
 ## Bijdrage Paper
-Het paper heb ik voor het grootste deel geschreven. In de laatste weken focuste ik me voornamelijk op het schrijven van het paper terwijl mijn projectgenoten de laatste scripts schreven en uitvoerden. Van het paper heb ik:
+Het [paper](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/paper_ortho_eyes.pdf) heb ik voor het grootste deel geschreven. In de laatste weken focuste ik me voornamelijk op het schrijven van het paper terwijl mijn projectgenoten de laatste scripts schreven en uitvoerden. Van het paper heb ik:
 - De opmaak verzorgd
 - Structuur bedacht
 - De volgende hoofdstukken geschreven:
@@ -170,6 +170,8 @@ Het paper heb ik voor het grootste deel geschreven. In de laatste weken focuste 
 - Laatste spellingscheck
 
 Over het algemeen was het paper mijn verantwoordelijkheid en hier heb ik dan ook de leiding over genomen en af en toe (indien nodig) mijn projectgenoten om hulp gevraagd.
+
+Het paper kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/paper_ortho_eyes.pdf) inzien.
 
 ## Andere python scripts
 Omdat ik me op een gegeven moment overwerkt voelde en echt helemaal klaar was met het programmeren ging ik me meer bezighouden met ondersteunende werkzaamheden zoals bijvoorbeeld de presentaties. Door dit portfolio kan het lijken alsof ik vooral aan het begin erg druk ben geweest met het programmeren en verder weinig heb gedaan. Dit is echter niet het geval maar ik kan minder goed aanwijzen waar ik echt een bijdrage aan heb geleverd. Elke keer als projectgenoten problemen hadden met scripts was ik ik er vaak snel bij en probeerde dan ook altijd te door mee te denken vaak de problemen op te lossen.
