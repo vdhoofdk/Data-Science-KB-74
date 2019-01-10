@@ -6,6 +6,9 @@ Welkom in mijn portfolio dat ik heb gemaakt voor de Data Science Minor KB74. Tij
 
 Ons doel tijdens dit onderzoek was om te achterhalen of het 'flock-of-birds'-systeem dat momenteel door het LUMC enkel wordt gebruikt voor onderzoeksdoeleinden of dat het ook gebruikt kan worden voor de diagnostische doeleinden.
 
+### Onderbouwing keuze minor
+De afgelopen drie jaar op de Haagse Hogeschool heb ik de opleiding Business IT & Management gevolgd. Deze opleiding bevat een aantal bedrijfskundige en een aantal technische componenten. Ondanks dat ik dit een erg leuke opleiding vond vond ik wel dat ik niet genoeg ervaring op had gedaan met programmeren en data-analyses. Deze minor leek me daarnaast erg uitdagend en interessant omdat we aan echte onderzoeken mee zouden werken. 
+
 In dit portfolio heb ik alles beschreven dat ik heb gedaan:
 ## Mijn portfolio
 - [Courses en Opdrachten](#courses-en-opdrachten)
@@ -23,8 +26,7 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
   - [Presentaties](#presentaties)
   - [Bijdrage aan paper](#bijdrage-aan-paper)
   - [Overig](#overig-1)
-- [Evaluatie project](#evaluatie-project)
-- [Evaluatie leerproces](#evaluatie-leerproces)
+- [Reflectie op deze minor](#reflectie-op-deze-minor)
 
 Daarnaast zal ik binnen mijn portfolio globaal beschrijven wat er is gedaan gedurende dit onderzoek en binnen deze beschrijving zal ik vertellen wat voor scripts ik heb geschreven. Bij iedere verwijzing zal ik overigens een linkje plaatsen waardoor u dit script ook in kunt zien.
 # Courses en Opdrachten
@@ -173,3 +175,6 @@ Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschoo
 
 Dit is een impressie van onze 'presentatie' bij de CvB-borrel.
 <img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/cvb-borrel.jpg?raw=true">
+
+## Reflectie op deze minor
+Dit was een zware en intensieve minor die ik had gekozen om meer kennis op te doen met programmeren en data-analyses. Dit heb ik gedurende dit halve jaar zeker veel gedaan. Ik heb redelijk snel geleerd hoe ik moest programmeren in python en veel geleerd over de achterliggende wiskunde. Ik vond het programmeren wel erg moeilijk en vond het ook op den duur erg vermoeiend om mee bezig te zijn. Ik had op een gegeven moment ook een beetje het gevoel dat ik tegen een burnout aan zat en ik wou gewoon echt even klaar zijn met het programmeren. Gelukkig waren er genoeg andere dingen waar ik me mee bezig kon houden zoals het voorbereiden en geven van presentaties en tegen het einde aan het schrijven van het paper. Sindsdien ik ik me gewoon meer bezig houden met ondersteunende werkzaamheden waardoor ik me weer beter ging voelen en ik toch deze minor af kon maken. De achterliggende wiskunde vond ik ook erg lastig maar toch ben ik blij dat ik hier wat van mee heb gekregen omdat ik tijdens mijn opleiding ook haast geen wiskunde heb gehad en ik door deze wiskunde alle modellen ook beter begreep. Ik vond het ook ontzettend interessant en leuk om mee te doen aan deze minor omdat ik met alle andere medestudenten mee deed aan een echt onderzoek waar de resultaten nog onbekend van waren en we echt niet wisten wat we verder zouden doen. Ik vond het leuk om dit mee te maken en een erg leerzame ervaring/minor.
