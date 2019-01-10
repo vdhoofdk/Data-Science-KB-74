@@ -25,6 +25,7 @@ In dit portfolio heb ik alles beschreven dat ik heb gedaan:
 - [Overig](#overig)
   - [Presentaties](#presentaties)
   - [Bijdrage aan paper](#bijdrage-aan-paper)
+  - [Andere python scripts](#andere-python-scripts)
   - [Overig](#overig-1)
 - [Reflectie op deze minor](#reflectie-op-deze-minor)
 
@@ -109,15 +110,15 @@ Ook heb ik voor het mijn teamleden uitgezocht wat dropouts en convolutional neur
 Tijdens dit project zijn we met het projectgroepje ook eens langsgeweest bij onze opdrachtgever (J. de Groot). Tijdens dit bezoek hebben we gepraat over dit onderzoek en zelf een meting gedaan om het 'Flock of birds'-systeem en de data beter te begrijpen.
 
 ## Gebouwde modellen
-In eerste instantie heeft Luke een eerste paar classifiers gebouwd met de voorbeeldcode die al op de datascience server stond in het /mltutorial mapje. Omdat het runnen van deze classifiers erg lang duurde heb ik samen met Vincent deze classifiers herbouwd in sklearn. Deze classifier hebben we verder in het project vaak opnieuw gebruikt en verder aangepast. De code hiervan kon helaas ik niet meer vinden. 
+In eerste instantie heeft Luke een eerste paar classifiers gebouwd met de voorbeeldcode die al op de datascience server stond in het /mltutorial mapje. Omdat het runnen van deze classifiers erg lang duurde heb ik samen met Vincent deze classifiers herbouwd in sklearn. Deze classifier hebben we verder in het project vaak opnieuw gebruikt en verder aangepast. De code hiervan kon helaas ik niet meer vinden. In het paper zijn dit classifiers no. 1 t/m 4 
 
-Daarna hebben we wel een 5in1 classifier gebouwd die deze classifier vier keer gebruikte. Deze 5in1 classifier was een soort van 2-traps classifier. Eerst zette hij alle categorieën individueel tegen de andere categorieën af. Daarna groepeerde hij de resultaten per patiënt en runde nog een classifier over deze resultaten en gaf die een uiteindelijke accuracy en recall. Deze classifier heb ik vrijwel zelf gebouwd. Qua geschreven code ben ik het meest trots op deze classifier. Dit komt vooral door de moeilijkheidsgraad en het feit dat ik hem bijna zelf heb geschreven. De code van deze classifier kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/5in1_v3.0.ipynb) inzien.
+Daarna hebben we wel een 5in1 classifier gebouwd die deze classifier vier keer gebruikte. Deze 5in1 classifier was een soort van 2-traps classifier. Eerst zette hij alle categorieën individueel tegen de andere categorieën af. Daarna groepeerde hij de resultaten per patiënt en runde nog een classifier over deze resultaten en gaf die een uiteindelijke accuracy en recall. Deze classifier heb ik vrijwel zelf gebouwd. Qua geschreven code ben ik het meest trots op deze classifier. Dit komt vooral door de moeilijkheidsgraad en het feit dat ik hem bijna zelf heb geschreven. De code van deze classifier kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/5in1_v3.0.ipynb) inzien. In het paper is dit classifier no. 5
 
-Later heb ik deze 5in1 classifier ook omgebouwd naar een neural network (MLPclassifier). De code van deze 5in1 MLPclassifier kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/5in1_v3%20--_%20Neural%20Network%20v1.0.ipynb) inzien.
+Later heb ik deze 5in1 classifier ook omgebouwd naar een neural network (MLPclassifier). De code van deze 5in1 MLPclassifier kan je [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/5in1_v3%20--_%20Neural%20Network%20v1.0.ipynb) inzien. Deze classifier is niet opgenomen in het paper.
 
-Een andere classifier die ik heb gebouwd samen met Luke is een patient-level classifier (neural network). Nadat we dit neural network werkend hebben gekregen bleek de classifier te overfitten omdat we de data fout aan het splitten waren. Nadat Luke het probleem met het splitten van de data samen met onze docent heeft opgelost hebben we weer dezelfde classifier gerund. Nadat we  De code van deze classifier is [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Classifier%20Neural%20Network%204Y%20v0.3%20-%20Real%20Test.ipynb) te vinden. 
+Een andere classifier die ik heb gebouwd samen met Luke is een patient-level classifier (neural network). Nadat we dit neural network werkend hebben gekregen bleek de classifier te overfitten omdat we de data fout aan het splitten waren. Nadat Luke het probleem met het splitten van de data samen met onze docent heeft opgelost hebben we weer dezelfde classifier gerund. Nadat we  De code van deze classifier is [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/Classifier%20Neural%20Network%204Y%20v0.3%20-%20Real%20Test.ipynb) te vinden. Deze classifier is niet opgenomen in het paper.
 
-Samen met Vincent heb ik ook een k-NN classifier gebouwd die ook de optimale k kon vinden tussen 1 en 10. Deze kNN classifier is vier keer gerund. Elke keer werd weer een andere een categorie tegen de rest van de categorieën afgezet. Deze code is [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/classifier%20cat%204%20versie%202.43.ipynb) in te zien. 
+Samen met Vincent heb ik ook een k-NN classifier gebouwd die ook de optimale k kon vinden tussen 1 en 10. Deze kNN classifier is vier keer gerund. Elke keer werd weer een andere een categorie tegen de rest van de categorieën afgezet. Deze code is [hier](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Notebooks/classifier%20cat%204%20versie%202.43.ipynb) in te zien. In het paper zijn dit classifiers no. 7 t/m 10 
 
 Voor de resultaten van alle classifiers raad ik u aan om ons paper te lezen.
 
@@ -169,6 +170,9 @@ Het paper heb ik voor het grootste deel geschreven. In de laatste weken focuste 
 - Laatste spellingscheck
 
 Over het algemeen was het paper mijn verantwoordelijkheid en hier heb ik dan ook de leiding over genomen en af en toe (indien nodig) mijn projectgenoten om hulp gevraagd.
+
+## Andere python scripts
+Omdat ik me op een gegeven moment overwerkt voelde en echt helemaal klaar was met het programmeren ging ik me meer bezighouden met ondersteunende werkzaamheden zoals bijvoorbeeld de presentaties. Door dit portfolio kan het lijken alsof ik vooral aan het begin erg druk ben geweest met het programmeren en verder weinig heb gedaan. Dit is echter niet het geval maar ik kan minder goed aanwijzen waar ik echt een bijdrage aan heb geleverd. Elke keer als projectgenoten problemen hadden met scripts was ik ik er vaak snel bij en probeerde dan ook altijd te door mee te denken vaak de problemen op te lossen.
 
 ## Overig
 Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschool. Tijdens deze borrel hebben wij aan andere onderwijzers uitgelegd wat het doel is van dit project en waar wij precies mee bezig zijn. Dit hebben wij met behulp van [deze poster](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Poster_CvB-borrel.pdf) uitgelegd die ik en Vincent samen hebben gemaakt. Ik was er tijdens die borrel ook bij en heb aan veel geïnteresseerde docenten uitgelegd waar wij mee bezig waren.
